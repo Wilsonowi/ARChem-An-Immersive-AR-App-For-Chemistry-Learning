@@ -1,0 +1,1848 @@
+[
+  {
+    "id": "chem_f4_001",
+    "chapter_number": "1",
+    "chapter_title": "Chapter 1: Introduction to Chemistry",
+    "topic_number": "1.1",
+    "topic_title": "Development in Chemistry Field and Its Importance in Daily Life",
+    "definition": "Chemistry is a field of science originating from the Arabic word 'al-kimiya' that studies the structures, properties, compositions, and interactions between matters.",
+    "key_principle": "All substances around us are made up of chemicals, and mastering the fundamental concepts of chemistry allows humans to understand matter, daily chemical reactions, and develop advanced technologies such as nanochemistry (the study of particles as tiny as 10⁻⁹ m).",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Commonly Used Chemicals in Daily Life",
+        "headers": [
+          "Field",
+          "Examples of Chemicals"
+        ],
+        "rows": [
+          [
+            "Food",
+            "Preservative, Colouring, Flavouring, Antioxidant, Stabiliser"
+          ],
+          [
+            "Agriculture",
+            "Herbicide, Pesticide, Fungicide, Fertiliser, Hormone"
+          ],
+          [
+            "Industry",
+            "Paint, Polymer, Glass, Ceramic, Detergent, Colouring, Alloy"
+          ],
+          [
+            "Medicine",
+            "Antibiotic, Antiseptic, Vitamin, Chemotherapy, Analgesic"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Careers Related to the Chemistry Field",
+        "items": [
+          "Pharmaceutical/Medicine: Doctor, Pharmacist",
+          "Cosmetics: Cosmetic chemist, Cosmetic consultant",
+          "Green Technology: Green technology chemist, Engineer",
+          "Nanotechnology & Food Technology: Nanotechnology engineer, Food scientist",
+          "Biotechnology: Biotechnology researcher, Biomedical engineer"
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 1: Introduction to Chemistry\nTopic 1.1: Development in Chemistry Field and Its Importance in Daily Life\nDefinition: Chemistry is a field of science originating from the Arabic word 'al-kimiya' that studies the structures, properties, compositions, and interactions between matters.\nKey Principle: All substances around us are made up of chemicals, and mastering the fundamental concepts of chemistry allows humans to understand matter, daily chemical reactions, and develop advanced technologies such as nanochemistry (the study of particles as tiny as 10⁻⁹ m).\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Commonly Used Chemicals in Daily Life\nField: Food | Examples of Chemicals: Preservative, Colouring, Flavouring, Antioxidant, Stabiliser\nField: Agriculture | Examples of Chemicals: Herbicide, Pesticide, Fungicide, Fertiliser, Hormone\nField: Industry | Examples of Chemicals: Paint, Polymer, Glass, Ceramic, Detergent, Colouring, Alloy\nField: Medicine | Examples of Chemicals: Antibiotic, Antiseptic, Vitamin, Chemotherapy, Analgesic\n\nList: Careers Related to the Chemistry Field\n- Pharmaceutical/Medicine: Doctor, Pharmacist\n- Cosmetics: Cosmetic chemist, Cosmetic consultant\n- Green Technology: Green technology chemist, Engineer\n- Nanotechnology & Food Technology: Nanotechnology engineer, Food scientist\n- Biotechnology: Biotechnology researcher, Biomedical engineer"
+  },
+  {
+    "id": "chem_f4_002",
+    "chapter_number": "1",
+    "chapter_title": "Chapter 1: Introduction to Chemistry",
+    "topic_number": "1.2",
+    "topic_title": "Scientific Investigation in Chemistry",
+    "definition": "A scientific investigation is a systematic scientific method used by scientists or researchers to solve problems related to science.",
+    "key_principle": "A scientific investigation must follow a specific sequence of steps starting from an initial observation of a phenomenon to conducting a controlled experiment where variables are manipulated, allowing the researcher to make data-driven conclusions about a hypothesis.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Steps in a Scientific Method",
+        "items": [
+          "1. Making observations: Using senses to gather information about an object or phenomenon.",
+          "2. Making an inference: Using data collection and past experience to make a conclusion and explanation.",
+          "3. Identifying the problem: Asking questions based on the inference made.",
+          "4. Making a hypothesis: Making a general, testable statement about the relationship between a manipulated variable and a responding variable.",
+          "5. Identifying the variables: Identifying manipulated, responding, and fixed variables.",
+          "6. Controlling the variables: Manipulating one variable while keeping others fixed to observe relationships.",
+          "7. Planning an experiment: Determining materials, apparatus, procedure, and data analysis methods.",
+          "8. Collecting data: Making observations or measurements and recording them systematically.",
+          "9. Interpreting data: Organising and analyzing data through calculations, graphs, or charts.",
+          "10. Making a conclusion: Stating whether the hypothesis is accepted or rejected based on results.",
+          "11. Preparing a report: Communicating details of the experiment to share findings."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 1: Introduction to Chemistry\nTopic 1.2: Scientific Investigation in Chemistry\nDefinition: A scientific investigation is a systematic scientific method used by scientists or researchers to solve problems related to science.\nKey Principle: A scientific investigation must follow a specific sequence of steps starting from an initial observation of a phenomenon to conducting a controlled experiment where variables are manipulated, allowing the researcher to make data-driven conclusions about a hypothesis.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Steps in a Scientific Method\n- 1. Making observations: Using senses to gather information about an object or phenomenon.\n- 2. Making an inference: Using data collection and past experience to make a conclusion and explanation.\n- 3. Identifying the problem: Asking questions based on the inference made.\n- 4. Making a hypothesis: Making a general, testable statement about the relationship between a manipulated variable and a responding variable.\n- 5. Identifying the variables: Identifying manipulated, responding, and fixed variables.\n- 6. Controlling the variables: Manipulating one variable while keeping others fixed to observe relationships.\n- 7. Planning an experiment: Determining materials, apparatus, procedure, and data analysis methods.\n- 8. Collecting data: Making observations or measurements and recording them systematically.\n- 9. Interpreting data: Organising and analyzing data through calculations, graphs, or charts.\n- 10. Making a conclusion: Stating whether the hypothesis is accepted or rejected based on results.\n- 11. Preparing a report: Communicating details of the experiment to share findings."
+  },
+  {
+    "id": "chem_f4_003",
+    "chapter_number": "1",
+    "chapter_title": "Chapter 1: Introduction to Chemistry",
+    "topic_number": "1.3",
+    "topic_title": "Usage, Management and Handling of Apparatus and Materials",
+    "definition": "This section outlines the essential safety measures, personal protective equipment (PPE), and standard operating procedures for managing, storing, and disposing of laboratory chemicals to prevent accidents and environmental pollution.",
+    "key_principle": "Chemicals pose different risks (e.g., toxicity, flammability, corrosiveness) and must be rigorously sorted, securely stored, handled using proper protective equipment, and disposed of according to standard environmental procedures to avoid hazards like mercury poisoning or explosive reactions.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Personal Protective Equipment and Safety Equipment",
+        "headers": [
+          "Equipment",
+          "Function"
+        ],
+        "rows": [
+          [
+            "Safety goggles",
+            "Prevents dust or splashes of chemicals from getting into the eyes."
+          ],
+          [
+            "Laboratory coat",
+            "Protects the body and clothing against chemical spills such as acids, alkalis, and organic solvents."
+          ],
+          [
+            "Gloves",
+            "Protects hands from injuries, chemicals, or infections when handling substances."
+          ],
+          [
+            "Face mask",
+            "Protects respiratory organs from chemicals in the form of powder or fumes."
+          ],
+          [
+            "Laboratory shoes",
+            "Protects the feet from injuries caused by chemical spills, sharp objects, or toxic substances."
+          ],
+          [
+            "Fume chamber",
+            "Specially designed equipment for experiments that release toxic vapours, cause combustions, or produce pungent smells."
+          ],
+          [
+            "Safety shower",
+            "Washes and cleans the body in the event of a chemical accident; also extinguishes fire on clothing."
+          ],
+          [
+            "Eyewash",
+            "Washes and cleans the eye when accidents occur to parts of the eye."
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Storage of Chemicals",
+        "items": [
+          "Reactive substances (e.g., Lithium, Sodium, Potassium): Stored in paraffin oil to prevent reaction with moisture in the air.",
+          "Hydrocarbons and organic solvents: Stored in shady areas far from sunlight and heat sources due to volatility and flammability.",
+          "Substances that decompose easily (e.g., Nitric acid, Hydrogen peroxide, Liquid bromine): Stored in dark bottles to prevent decomposition from light exposure.",
+          "Corrosive substances (pH<5 and pH>9): Stored in special, locked storage cabinets.",
+          "Heavy metals and toxic substances: Kept in special labelled containers in a locked, heat-free room."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Disposal of Chemicals",
+        "items": [
+          "Hydrogen peroxide: Low concentration can be poured down the sink; high concentration must be diluted with water and added to sodium sulphite before disposal.",
+          "Solid wastes (e.g., glass, rubber): Disposed of into special containers.",
+          "Organic solvents and hydrocarbons: Kept in special glass or plastic containers (cannot be poured in the sink as they pollute the water source).",
+          "Strong acids and alkalis: Kept in closed, labelled containers.",
+          "Heavy metals and toxic substances: Solutions kept in plastic bags, evaporated in a fume chamber, tied carefully, and placed in heavy metal waste containers.",
+          "Volatile substances: Stored in closed containers away from sun and heat."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Emergency Management Procedure for Spills",
+        "items": [
+          "Inform your teacher or the laboratory assistant about the accident immediately.",
+          "Prohibit other students from entering the accident site.",
+          "Stop the spill from spreading to other areas by using sand to border it.",
+          "Clean the chemical spill.",
+          "Dispose of the chemical spill by following the correct procedures."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 1: Introduction to Chemistry\nTopic 1.3: Usage, Management and Handling of Apparatus and Materials\nDefinition: This section outlines the essential safety measures, personal protective equipment (PPE), and standard operating procedures for managing, storing, and disposing of laboratory chemicals to prevent accidents and environmental pollution.\nKey Principle: Chemicals pose different risks (e.g., toxicity, flammability, corrosiveness) and must be rigorously sorted, securely stored, handled using proper protective equipment, and disposed of according to standard environmental procedures to avoid hazards like mercury poisoning or explosive reactions.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Personal Protective Equipment and Safety Equipment\nEquipment: Safety goggles | Function: Prevents dust or splashes of chemicals from getting into the eyes.\nEquipment: Laboratory coat | Function: Protects the body and clothing against chemical spills such as acids, alkalis, and organic solvents.\nEquipment: Gloves | Function: Protects hands from injuries, chemicals, or infections when handling substances.\nEquipment: Face mask | Function: Protects respiratory organs from chemicals in the form of powder or fumes.\nEquipment: Laboratory shoes | Function: Protects the feet from injuries caused by chemical spills, sharp objects, or toxic substances.\nEquipment: Fume chamber | Function: Specially designed equipment for experiments that release toxic vapours, cause combustions, or produce pungent smells.\nEquipment: Safety shower | Function: Washes and cleans the body in the event of a chemical accident; also extinguishes fire on clothing.\nEquipment: Eyewash | Function: Washes and cleans the eye when accidents occur to parts of the eye.\n\nList: Storage of Chemicals\n- Reactive substances (e.g., Lithium, Sodium, Potassium): Stored in paraffin oil to prevent reaction with moisture in the air.\n- Hydrocarbons and organic solvents: Stored in shady areas far from sunlight and heat sources due to volatility and flammability.\n- Substances that decompose easily (e.g., Nitric acid, Hydrogen peroxide, Liquid bromine): Stored in dark bottles to prevent decomposition from light exposure.\n- Corrosive substances (pH<5 and pH>9): Stored in special, locked storage cabinets.\n- Heavy metals and toxic substances: Kept in special labelled containers in a locked, heat-free room.\n\nList: Disposal of Chemicals\n- Hydrogen peroxide: Low concentration can be poured down the sink; high concentration must be diluted with water and added to sodium sulphite before disposal.\n- Solid wastes (e.g., glass, rubber): Disposed of into special containers.\n- Organic solvents and hydrocarbons: Kept in special glass or plastic containers (cannot be poured in the sink as they pollute the water source).\n- Strong acids and alkalis: Kept in closed, labelled containers.\n- Heavy metals and toxic substances: Solutions kept in plastic bags, evaporated in a fume chamber, tied carefully, and placed in heavy metal waste containers.\n- Volatile substances: Stored in closed containers away from sun and heat.\n\nList: Emergency Management Procedure for Spills\n- Inform your teacher or the laboratory assistant about the accident immediately.\n- Prohibit other students from entering the accident site.\n- Stop the spill from spreading to other areas by using sand to border it.\n- Clean the chemical spill.\n- Dispose of the chemical spill by following the correct procedures."
+  },
+  {
+    "id": "chem_f4_004",
+    "chapter_number": "2",
+    "chapter_title": "Chapter 2: Matter and the Atomic Structure",
+    "topic_number": "2.1",
+    "topic_title": "Basic Concepts of Matter",
+    "definition": "Matter is something that has mass and occupies space, and it consists of tiny, discrete particles. Matter can exist in three states: solid, liquid, and gas.",
+    "key_principle": "Matter can exist as elements (made of atoms or molecules) or compounds (made of molecules or ions). The state of matter can change due to heating or cooling, which involves the absorption or release of heat energy, subsequently altering the particles' kinetic energy, arrangement, and attraction forces.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "States of Matter and Particle Properties",
+        "headers": [
+          "State of Matter",
+          "Arrangement of Particles",
+          "Kinetic Energy",
+          "Attraction Force Between Particles"
+        ],
+        "rows": [
+          [
+            "Solid",
+            "Closely packed in an orderly manner",
+            "Low",
+            "Strong"
+          ],
+          [
+            "Liquid",
+            "Closely packed but not in an orderly manner",
+            "Higher than solid state",
+            "Strong, but less than solid state"
+          ],
+          [
+            "Gas",
+            "Far apart",
+            "Very high",
+            "Weak"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Data derived from Figure 2.2 Conversion between states of matter."
+      },
+      {
+        "type": "list",
+        "title": "Changes in the State of Matter",
+        "items": [
+          "Heat Absorbed: Melting (Solid to Liquid), Boiling/Evaporation (Liquid to Gas), Sublimation (Solid to Gas).",
+          "Heat Released: Freezing (Liquid to Solid), Condensation (Gas to Liquid), Deposition (Gas to Solid)."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 2: Matter and the Atomic Structure\nTopic 2.1: Basic Concepts of Matter\nDefinition: Matter is something that has mass and occupies space, and it consists of tiny, discrete particles. Matter can exist in three states: solid, liquid, and gas.\nKey Principle: Matter can exist as elements (made of atoms or molecules) or compounds (made of molecules or ions). The state of matter can change due to heating or cooling, which involves the absorption or release of heat energy, subsequently altering the particles' kinetic energy, arrangement, and attraction forces.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: States of Matter and Particle Properties\nState of Matter: Solid | Arrangement of Particles: Closely packed in an orderly manner | Kinetic Energy: Low | Attraction Force Between Particles: Strong\nState of Matter: Liquid | Arrangement of Particles: Closely packed but not in an orderly manner | Kinetic Energy: Higher than solid state | Attraction Force Between Particles: Strong, but less than solid state\nState of Matter: Gas | Arrangement of Particles: Far apart | Kinetic Energy: Very high | Attraction Force Between Particles: Weak\n\nNote: Data derived from Figure 2.2 Conversion between states of matter.\n\nList: Changes in the State of Matter\n- Heat Absorbed: Melting (Solid to Liquid), Boiling/Evaporation (Liquid to Gas), Sublimation (Solid to Gas).\n- Heat Released: Freezing (Liquid to Solid), Condensation (Gas to Liquid), Deposition (Gas to Solid)."
+  },
+  {
+    "id": "chem_f4_005",
+    "chapter_number": "2",
+    "chapter_title": "Chapter 2: Matter and the Atomic Structure",
+    "topic_number": "2.2",
+    "topic_title": "The Development of the Atomic Model",
+    "definition": "An atom is the basic building block of matter, composed of three subatomic particles: protons, neutrons, and electrons.",
+    "key_principle": "The atomic structure model was developed over time by various scientists, culminating in the modern understanding that an atom consists of a dense nucleus (containing positively charged protons and neutral neutrons) surrounded by negatively charged electrons moving in shells.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Subatomic Particles",
+        "headers": [
+          "Particle",
+          "Symbol",
+          "Relative Charge",
+          "Relative Mass"
+        ],
+        "rows": [
+          [
+            "Electron",
+            "e",
+            "–1",
+            "1 / 1840"
+          ],
+          [
+            "Proton",
+            "p",
+            "+1",
+            "1"
+          ],
+          [
+            "Neutron",
+            "n",
+            "0 (Neutral)",
+            "1"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Data derived from Figure 2.8 Subatomic particles."
+      },
+      {
+        "type": "list",
+        "title": "Historical Development of the Atomic Model",
+        "items": [
+          "John Dalton (1766 – 1844): Proposed that matter is made of indestructible, indivisible spherical atoms. Elements of the same type have the same atoms.",
+          "J.J. Thomson (1856 – 1940): Discovered electrons and proposed a positively-charged sphere with negatively-charged electrons embedded in it.",
+          "Ernest Rutherford (1871 – 1937): Discovered the nucleus containing positively-charged protons, where almost all atomic mass is concentrated, with electrons moving outside it.",
+          "Niels Bohr (1885 – 1962): Proposed that electrons move in fixed shells around the nucleus.",
+          "James Chadwick (1891 – 1974): Discovered neutral particles called neutrons in the nucleus, which contribute to almost half of the atom's mass."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 2: Matter and the Atomic Structure\nTopic 2.2: The Development of the Atomic Model\nDefinition: An atom is the basic building block of matter, composed of three subatomic particles: protons, neutrons, and electrons.\nKey Principle: The atomic structure model was developed over time by various scientists, culminating in the modern understanding that an atom consists of a dense nucleus (containing positively charged protons and neutral neutrons) surrounded by negatively charged electrons moving in shells.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Subatomic Particles\nParticle: Electron | Symbol: e | Relative Charge: –1 | Relative Mass: 1 / 1840\nParticle: Proton | Symbol: p | Relative Charge: +1 | Relative Mass: 1\nParticle: Neutron | Symbol: n | Relative Charge: 0 (Neutral) | Relative Mass: 1\n\nNote: Data derived from Figure 2.8 Subatomic particles.\n\nList: Historical Development of the Atomic Model\n- John Dalton (1766 – 1844): Proposed that matter is made of indestructible, indivisible spherical atoms. Elements of the same type have the same atoms.\n- J.J. Thomson (1856 – 1940): Discovered electrons and proposed a positively-charged sphere with negatively-charged electrons embedded in it.\n- Ernest Rutherford (1871 – 1937): Discovered the nucleus containing positively-charged protons, where almost all atomic mass is concentrated, with electrons moving outside it.\n- Niels Bohr (1885 – 1962): Proposed that electrons move in fixed shells around the nucleus.\n- James Chadwick (1891 – 1974): Discovered neutral particles called neutrons in the nucleus, which contribute to almost half of the atom's mass."
+  },
+  {
+    "id": "chem_f4_006",
+    "chapter_number": "2",
+    "chapter_title": "Chapter 2: Matter and the Atomic Structure",
+    "topic_number": "2.3",
+    "topic_title": "Atomic Structure",
+    "definition": "The atomic structure represents the specific number of protons and neutrons located in the nucleus, and the arrangement of electrons in shells orbiting the nucleus.",
+    "key_principle": "The chemical properties of an element depend on the number of valence electrons (electrons in the outermost shell). Atoms are neutral when the number of protons equals the number of electrons, but they form ions (cations or anions) when electrons are donated or accepted.",
+    "formula": "Nucleon number = Number of protons + Number of neutrons",
+    "variables": "Nucleon number: The total number of protons and neutrons in the nucleus. Number of protons (Proton number): The number of protons in the nucleus of an atom. Number of neutrons: The neutral particles in the nucleus.",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Standard Representation of an Atom ($^A_Z X$)",
+        "items": [
+          "X: Symbol of the element.",
+          "A: Nucleon number (top left).",
+          "Z: Proton number (bottom left)."
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Subatomic Particles of Chlorine Atom vs. Chloride Ion",
+        "headers": [
+          "Type of particle",
+          "Chlorine atom, Cl",
+          "Chloride ion, Cl⁻"
+        ],
+        "rows": [
+          [
+            "Number of protons",
+            "17",
+            "17"
+          ],
+          [
+            "Number of neutrons",
+            "18",
+            "18"
+          ],
+          [
+            "Number of electrons",
+            "17",
+            "18"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Data derived from Table 2.2."
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 2: Matter and the Atomic Structure\nTopic 2.3: Atomic Structure\nDefinition: The atomic structure represents the specific number of protons and neutrons located in the nucleus, and the arrangement of electrons in shells orbiting the nucleus.\nKey Principle: The chemical properties of an element depend on the number of valence electrons (electrons in the outermost shell). Atoms are neutral when the number of protons equals the number of electrons, but they form ions (cations or anions) when electrons are donated or accepted.\nFormula: Nucleon number = Number of protons + Number of neutrons\nVariables: Nucleon number: The total number of protons and neutrons in the nucleus. Number of protons (Proton number): The number of protons in the nucleus of an atom. Number of neutrons: The neutral particles in the nucleus.\nEssential Data & Tables:\nList: Standard Representation of an Atom ($^A_Z X$)\n- X: Symbol of the element.\n- A: Nucleon number (top left).\n- Z: Proton number (bottom left).\n\nTable: Subatomic Particles of Chlorine Atom vs. Chloride Ion\nType of particle: Number of protons | Chlorine atom, Cl: 17 | Chloride ion, Cl⁻: 17\nType of particle: Number of neutrons | Chlorine atom, Cl: 18 | Chloride ion, Cl⁻: 18\nType of particle: Number of electrons | Chlorine atom, Cl: 17 | Chloride ion, Cl⁻: 18\n\nNote: Data derived from Table 2.2."
+  },
+  {
+    "id": "chem_f4_007",
+    "chapter_number": "2",
+    "chapter_title": "Chapter 2: Matter and the Atomic Structure",
+    "topic_number": "2.4",
+    "topic_title": "Isotopes and Its Uses",
+    "definition": "Isotopes are atoms of the same element that have the same number of protons but a different number of neutrons (hence, different nucleon numbers).",
+    "key_principle": "Most elements naturally exist as a mixture of isotopes, and their relative atomic mass is determined by calculating the average mass based on the natural abundance (percentage) of these isotopes in a sample.",
+    "formula": "Relative atomic mass = $\\frac{\\sum(% \\text{ isotope} \\times \\text{mass of isotope})}{100}$",
+    "variables": "% isotope: The natural abundance (percentage) of a specific isotope present in a natural sample. mass of isotope: The mass associated with that specific isotope.",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Uses of Isotopes in Various Fields",
+        "headers": [
+          "Field",
+          "Isotope",
+          "Uses"
+        ],
+        "rows": [
+          [
+            "Medicine",
+            "Cobalt-60",
+            "Radiotherapy to kill cancer cells without surgery; Sterilising surgical tools."
+          ],
+          [
+            "Medicine",
+            "Iodine-131",
+            "Treatment of thyroid disorders such as hyperthyroidism and thyroid cancer."
+          ],
+          [
+            "Agriculture",
+            "Phosphorus-32",
+            "Study of plant metabolism."
+          ],
+          [
+            "Nuclear",
+            "Uranium-235",
+            "Generating electricity through nuclear power generators."
+          ],
+          [
+            "Archaeology",
+            "Carbon-14",
+            "Estimation of artifacts or fossils' age."
+          ],
+          [
+            "Archaeology",
+            "Lead-210",
+            "Determining the age of sand and earth layers up to 80 years."
+          ],
+          [
+            "Industry",
+            "Hydrogen-3",
+            "As a detector to study sewage and liquid wastes."
+          ],
+          [
+            "Engineering",
+            "Sodium-24",
+            "Detecting leakage in underground pipes."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 2: Matter and the Atomic Structure\nTopic 2.4: Isotopes and Its Uses\nDefinition: Isotopes are atoms of the same element that have the same number of protons but a different number of neutrons (hence, different nucleon numbers).\nKey Principle: Most elements naturally exist as a mixture of isotopes, and their relative atomic mass is determined by calculating the average mass based on the natural abundance (percentage) of these isotopes in a sample.\nFormula: Relative atomic mass = $\\frac{\\sum(% \\text{ isotope} \\times \\text{mass of isotope})}{100}$\nVariables: % isotope: The natural abundance (percentage) of a specific isotope present in a natural sample. mass of isotope: The mass associated with that specific isotope.\nEssential Data & Tables:\nTable: Uses of Isotopes in Various Fields\nField: Medicine | Isotope: Cobalt-60 | Uses: Radiotherapy to kill cancer cells without surgery; Sterilising surgical tools.\nField: Medicine | Isotope: Iodine-131 | Uses: Treatment of thyroid disorders such as hyperthyroidism and thyroid cancer.\nField: Agriculture | Isotope: Phosphorus-32 | Uses: Study of plant metabolism.\nField: Nuclear | Isotope: Uranium-235 | Uses: Generating electricity through nuclear power generators.\nField: Archaeology | Isotope: Carbon-14 | Uses: Estimation of artifacts or fossils' age.\nField: Archaeology | Isotope: Lead-210 | Uses: Determining the age of sand and earth layers up to 80 years.\nField: Industry | Isotope: Hydrogen-3 | Uses: As a detector to study sewage and liquid wastes.\nField: Engineering | Isotope: Sodium-24 | Uses: Detecting leakage in underground pipes."
+  },
+  {
+    "id": "chem_f4_008",
+    "chapter_number": "3",
+    "chapter_title": "Chapter 3: The Mole Concept, Chemical Formula and Equation",
+    "topic_number": "3.1",
+    "topic_title": "Relative Atomic Mass and Relative Molecular Mass",
+    "definition": "Relative atomic mass (RAM) is the average mass of an atom of an element compared to $\\frac{1}{12}$ of the mass of one carbon-12 atom. Similarly, relative molecular mass (RMM) is the average mass of a molecule compared to $\\frac{1}{12}$ of the mass of one carbon-12 atom.",
+    "key_principle": "Atoms and molecules are too small to be weighed directly, so chemists compare their masses to a standard atom (carbon-12). For compounds, the relative molecular mass (for molecules) or relative formula mass (for ionic substances) is calculated by summing up the relative atomic masses of all the atoms present in the formula.",
+    "formula": "$\\text{Relative atomic mass of an element} = \\frac{\\text{Average mass of one atom of the element}}{\\frac{1}{12} \\times \\text{Mass of one carbon-12 atom}}$ $\\text{Relative molecular mass of a substance} = \\frac{\\text{Average mass of one molecule}}{\\frac{1}{12} \\times \\text{Mass of one carbon-12 atom}}$",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Examples of Calculating Relative Mass",
+        "items": [
+          "RMM of oxygen gas, O₂: $2 \\times (\\text{RAM of O}) = 2(16) = 32$",
+          "RMM of water, H₂O: $2 \\times (\\text{RAM of H}) + \\text{RAM of O} = 2(1) + 16 = 18$",
+          "RFM of zinc chloride, ZnCl₂: $\\text{RAM of Zn} + 2 \\times (\\text{RAM of Cl}) = 65 + 2(35.5) = 136$"
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 3: The Mole Concept, Chemical Formula and Equation\nTopic 3.1: Relative Atomic Mass and Relative Molecular Mass\nDefinition: Relative atomic mass (RAM) is the average mass of an atom of an element compared to $\\frac{1}{12}$ of the mass of one carbon-12 atom. Similarly, relative molecular mass (RMM) is the average mass of a molecule compared to $\\frac{1}{12}$ of the mass of one carbon-12 atom.\nKey Principle: Atoms and molecules are too small to be weighed directly, so chemists compare their masses to a standard atom (carbon-12). For compounds, the relative molecular mass (for molecules) or relative formula mass (for ionic substances) is calculated by summing up the relative atomic masses of all the atoms present in the formula.\nFormula: $\\text{Relative atomic mass of an element} = \\frac{\\text{Average mass of one atom of the element}}{\\frac{1}{12} \\times \\text{Mass of one carbon-12 atom}}$ $\\text{Relative molecular mass of a substance} = \\frac{\\text{Average mass of one molecule}}{\\frac{1}{12} \\times \\text{Mass of one carbon-12 atom}}$\nVariables: Not Applicable\nEssential Data & Tables:\nList: Examples of Calculating Relative Mass\n- RMM of oxygen gas, O₂: $2 \\times (\\text{RAM of O}) = 2(16) = 32$\n- RMM of water, H₂O: $2 \\times (\\text{RAM of H}) + \\text{RAM of O} = 2(1) + 16 = 18$\n- RFM of zinc chloride, ZnCl₂: $\\text{RAM of Zn} + 2 \\times (\\text{RAM of Cl}) = 65 + 2(35.5) = 136$"
+  },
+  {
+    "id": "chem_f4_009",
+    "chapter_number": "3",
+    "chapter_title": "Chapter 3: The Mole Concept, Chemical Formula and Equation",
+    "topic_number": "3.2",
+    "topic_title": "Mole Concept",
+    "definition": "The mole is the SI unit used to measure the amount of substance in chemistry. One mole of a substance contains $6.02 \\times 10^{23}$ particles, a value known as the Avogadro constant.",
+    "key_principle": "The mole acts as a central conversion factor in chemistry. The number of moles can be used to interconnect the number of particles (using the Avogadro constant), the mass of a substance (using molar mass), and the volume of a gas (using molar volume).",
+    "formula": "$n = \\frac{\\text{Number of particles}}{N_A}$ $n = \\frac{\\text{Mass (g)}}{\\text{Molar mass (g mol}^{-1}\\text{)}}$ $n = \\frac{\\text{Volume of gas}}{\\text{Molar volume}}$",
+    "variables": "n: Number of moles N_A: Avogadro constant ($6.02 \\times 10^{23} \\text{ mol}^{-1}$) Mass: The mass of the substance in grams (g) Molar mass: The mass of one mole of the substance in $\\text{g mol}^{-1}$ (equivalent in value to RAM/RMM/RFM) Volume of gas: The space occupied by the gas in $\\text{dm}^3$ or $\\text{cm}^3$ Molar volume: Volume of 1 mole of gas ($\\text{22.4 dm}^3 \\text{ mol}^{-1}$ at STP or $\\text{24 dm}^3 \\text{ mol}^{-1}$ at room conditions)",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Types of Particles in 1 Mole of Substance",
+        "items": [
+          "Atomic substance (e.g., Copper, Cu): Contains $6.02 \\times 10^{23}$ atoms.",
+          "Molecular substance (e.g., Water, H₂O): Contains $6.02 \\times 10^{23}$ molecules.",
+          "Ionic substance (e.g., Sodium chloride, NaCl): Contains $6.02 \\times 10^{23}$ formula units."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 3: The Mole Concept, Chemical Formula and Equation\nTopic 3.2: Mole Concept\nDefinition: The mole is the SI unit used to measure the amount of substance in chemistry. One mole of a substance contains $6.02 \\times 10^{23}$ particles, a value known as the Avogadro constant.\nKey Principle: The mole acts as a central conversion factor in chemistry. The number of moles can be used to interconnect the number of particles (using the Avogadro constant), the mass of a substance (using molar mass), and the volume of a gas (using molar volume).\nFormula: $n = \\frac{\\text{Number of particles}}{N_A}$ $n = \\frac{\\text{Mass (g)}}{\\text{Molar mass (g mol}^{-1}\\text{)}}$ $n = \\frac{\\text{Volume of gas}}{\\text{Molar volume}}$\nVariables: n: Number of moles N_A: Avogadro constant ($6.02 \\times 10^{23} \\text{ mol}^{-1}$) Mass: The mass of the substance in grams (g) Molar mass: The mass of one mole of the substance in $\\text{g mol}^{-1}$ (equivalent in value to RAM/RMM/RFM) Volume of gas: The space occupied by the gas in $\\text{dm}^3$ or $\\text{cm}^3$ Molar volume: Volume of 1 mole of gas ($\\text{22.4 dm}^3 \\text{ mol}^{-1}$ at STP or $\\text{24 dm}^3 \\text{ mol}^{-1}$ at room conditions)\nEssential Data & Tables:\nList: Types of Particles in 1 Mole of Substance\n- Atomic substance (e.g., Copper, Cu): Contains $6.02 \\times 10^{23}$ atoms.\n- Molecular substance (e.g., Water, H₂O): Contains $6.02 \\times 10^{23}$ molecules.\n- Ionic substance (e.g., Sodium chloride, NaCl): Contains $6.02 \\times 10^{23}$ formula units."
+  },
+  {
+    "id": "chem_f4_010",
+    "chapter_number": "3",
+    "chapter_title": "Chapter 3: The Mole Concept, Chemical Formula and Equation",
+    "topic_number": "3.3",
+    "topic_title": "Chemical Formula",
+    "definition": "A chemical formula is a representation of a chemical substance using alphabets to represent the atoms and subscript numbers to show the number of each type of atom found in the basic entities of the substance.",
+    "key_principle": "Compounds can be represented by an empirical formula (the simplest whole-number ratio of atoms) or a molecular formula (the actual number of atoms in a molecule). The chemical formulae of ionic compounds are constructed by balancing (cross-changing) the positive and negative charges of their constituent cations and anions.",
+    "formula": "$\\text{Molecular formula} = (\\text{Empirical formula})_n$",
+    "variables": "n: A positive integer representing the multiplication factor.",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Formulae of Common Cations and Anions",
+        "headers": [
+          "Cation",
+          "Formula",
+          "Anion",
+          "Formula"
+        ],
+        "rows": [
+          [
+            "Sodium ion",
+            "Na⁺",
+            "Chloride ion",
+            "Cl⁻"
+          ],
+          [
+            "Potassium ion",
+            "K⁺",
+            "Bromide ion",
+            "Br⁻"
+          ],
+          [
+            "Aluminium ion",
+            "Al³⁺",
+            "Iodide ion",
+            "I⁻"
+          ],
+          [
+            "Zinc ion",
+            "Zn²⁺",
+            "Hydroxide ion",
+            "OH⁻"
+          ],
+          [
+            "Magnesium ion",
+            "Mg²⁺",
+            "Oxide ion",
+            "O²⁻"
+          ],
+          [
+            "Iron(II) ion",
+            "Fe²⁺",
+            "Carbonate ion",
+            "CO₃²⁻"
+          ],
+          [
+            "Iron(III) ion",
+            "Fe³⁺",
+            "Nitrate ion",
+            "NO₃⁻"
+          ],
+          [
+            "Copper(II) ion",
+            "Cu²⁺",
+            "Sulphate ion",
+            "SO₄²⁻"
+          ],
+          [
+            "Calcium ion",
+            "Ca²⁺",
+            "Phosphate ion",
+            "PO₄³⁻"
+          ],
+          [
+            "Lead(II) ion",
+            "Pb²⁺",
+            "Manganate(VII) ion",
+            "MnO₄⁻"
+          ],
+          [
+            "Ammonium ion",
+            "NH₄⁺",
+            "Dichromate(VI) ion",
+            "Cr₂O₇²⁻"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Data derived from Table 3.7."
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 3: The Mole Concept, Chemical Formula and Equation\nTopic 3.3: Chemical Formula\nDefinition: A chemical formula is a representation of a chemical substance using alphabets to represent the atoms and subscript numbers to show the number of each type of atom found in the basic entities of the substance.\nKey Principle: Compounds can be represented by an empirical formula (the simplest whole-number ratio of atoms) or a molecular formula (the actual number of atoms in a molecule). The chemical formulae of ionic compounds are constructed by balancing (cross-changing) the positive and negative charges of their constituent cations and anions.\nFormula: $\\text{Molecular formula} = (\\text{Empirical formula})_n$\nVariables: n: A positive integer representing the multiplication factor.\nEssential Data & Tables:\nTable: Formulae of Common Cations and Anions\nCation: Sodium ion | Formula: Na⁺ | Anion: Chloride ion | Formula: Cl⁻\nCation: Potassium ion | Formula: K⁺ | Anion: Bromide ion | Formula: Br⁻\nCation: Aluminium ion | Formula: Al³⁺ | Anion: Iodide ion | Formula: I⁻\nCation: Zinc ion | Formula: Zn²⁺ | Anion: Hydroxide ion | Formula: OH⁻\nCation: Magnesium ion | Formula: Mg²⁺ | Anion: Oxide ion | Formula: O²⁻\nCation: Iron(II) ion | Formula: Fe²⁺ | Anion: Carbonate ion | Formula: CO₃²⁻\nCation: Iron(III) ion | Formula: Fe³⁺ | Anion: Nitrate ion | Formula: NO₃⁻\nCation: Copper(II) ion | Formula: Cu²⁺ | Anion: Sulphate ion | Formula: SO₄²⁻\nCation: Calcium ion | Formula: Ca²⁺ | Anion: Phosphate ion | Formula: PO₄³⁻\nCation: Lead(II) ion | Formula: Pb²⁺ | Anion: Manganate(VII) ion | Formula: MnO₄⁻\nCation: Ammonium ion | Formula: NH₄⁺ | Anion: Dichromate(VI) ion | Formula: Cr₂O₇²⁻\n\nNote: Data derived from Table 3.7."
+  },
+  {
+    "id": "chem_f4_011",
+    "chapter_number": "3",
+    "chapter_title": "Chapter 3: The Mole Concept, Chemical Formula and Equation",
+    "topic_number": "3.4",
+    "topic_title": "Chemical Equation",
+    "definition": "A chemical equation is a shorthand description of a chemical reaction using chemical formulae, showing the reactants on the left-hand side and the products on the right-hand side.",
+    "key_principle": "Based on the law of conservation of mass, a chemical equation must be balanced so that the number of atoms of each element is equal on both sides. Balanced chemical equations allow for stoichiometry—the quantitative study of the exact composition and mole ratio of substances involved in a reaction.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Physical State Symbols in Chemical Equations",
+        "items": [
+          "(s): Solid",
+          "(l): Liquid",
+          "(g): Gas",
+          "(aq): Aqueous solution",
+          "(Δ): Delta symbol placed over the arrow indicates that heating is required for the chemical reaction to occur."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 3: The Mole Concept, Chemical Formula and Equation\nTopic 3.4: Chemical Equation\nDefinition: A chemical equation is a shorthand description of a chemical reaction using chemical formulae, showing the reactants on the left-hand side and the products on the right-hand side.\nKey Principle: Based on the law of conservation of mass, a chemical equation must be balanced so that the number of atoms of each element is equal on both sides. Balanced chemical equations allow for stoichiometry—the quantitative study of the exact composition and mole ratio of substances involved in a reaction.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Physical State Symbols in Chemical Equations\n- (s): Solid\n- (l): Liquid\n- (g): Gas\n- (aq): Aqueous solution\n- (Δ): Delta symbol placed over the arrow indicates that heating is required for the chemical reaction to occur."
+  },
+  {
+    "id": "chem_f4_012",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.1",
+    "topic_title": "The Development of the Periodic Table of Elements",
+    "definition": "The Periodic Table of Elements is a system that classifies known chemical elements in a table according to certain characteristics, developed through the contributions of multiple scientists over time.",
+    "key_principle": "The fundamental principle of the modern Periodic Table is that elements are arranged in ascending order of their proton numbers (from 1 to 118), and elements with similar chemical properties are placed in the same vertical columns.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Historical Development of the Periodic Table of Elements",
+        "items": [
+          "Antoine Lavoisier (1743 – 1794): Classified elements into four groups (gases, non-metals, metals, and metal oxides), though inaccurate because he included light and heat.",
+          "Johann W. Dobereiner (1780 – 1849): Classified elements with similar chemical properties into groups of three called triads, noting the relationship between atomic mass and chemical properties.",
+          "John Newlands (1837 – 1898): Arranged elements by increasing atomic mass and proposed the Law of Octaves, as properties recurred every eighth element.",
+          "Lothar Meyer (1830 – 1895): Plotted atomic volume against atomic mass and found elements at equivalent positions on the curve had similar chemical properties.",
+          "Dmitri Mendeleev (1834 – 1907): Arranged elements by increasing atomic mass and placed elements with similar properties in the same vertical columns, leaving empty spaces to successfully predict undiscovered elements.",
+          "Henry Moseley (1887 – 1915): Discovered the relationship between X-ray spectrums and proton numbers, leading to the modern arrangement of elements by increasing proton numbers."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.1: The Development of the Periodic Table of Elements\nDefinition: The Periodic Table of Elements is a system that classifies known chemical elements in a table according to certain characteristics, developed through the contributions of multiple scientists over time.\nKey Principle: The fundamental principle of the modern Periodic Table is that elements are arranged in ascending order of their proton numbers (from 1 to 118), and elements with similar chemical properties are placed in the same vertical columns.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Historical Development of the Periodic Table of Elements\n- Antoine Lavoisier (1743 – 1794): Classified elements into four groups (gases, non-metals, metals, and metal oxides), though inaccurate because he included light and heat.\n- Johann W. Dobereiner (1780 – 1849): Classified elements with similar chemical properties into groups of three called triads, noting the relationship between atomic mass and chemical properties.\n- John Newlands (1837 – 1898): Arranged elements by increasing atomic mass and proposed the Law of Octaves, as properties recurred every eighth element.\n- Lothar Meyer (1830 – 1895): Plotted atomic volume against atomic mass and found elements at equivalent positions on the curve had similar chemical properties.\n- Dmitri Mendeleev (1834 – 1907): Arranged elements by increasing atomic mass and placed elements with similar properties in the same vertical columns, leaving empty spaces to successfully predict undiscovered elements.\n- Henry Moseley (1887 – 1915): Discovered the relationship between X-ray spectrums and proton numbers, leading to the modern arrangement of elements by increasing proton numbers."
+  },
+  {
+    "id": "chem_f4_013",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.2",
+    "topic_title": "The Arrangement in the Periodic Table of Elements",
+    "definition": "The modern Periodic Table of Elements organizes elements into vertical columns called Groups (from 1 to 18) and horizontal rows called Periods (from 1 to 7).",
+    "key_principle": "The position of an element is determined by its electron arrangement; the number of valence electrons dictates its Group, while the number of shells filled with electrons determines its Period.",
+    "formula": "Group = Number of valence electrons (for elements with 1 or 2 valence electrons) Group = Number of valence electrons + 10 (for elements with 3 to 8 valence electrons)",
+    "variables": "Group: The vertical column (1-18) in the Periodic Table. Number of valence electrons: Electrons in the outermost shell of the atom.",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Relationship between Proton Number, Electron Arrangement, and Position",
+        "headers": [
+          "Element",
+          "Proton number",
+          "Electron arrangement",
+          "Valence electron",
+          "Group",
+          "Number of shells filled",
+          "Period"
+        ],
+        "rows": [
+          [
+            "Lithium, Li",
+            "3",
+            "2.1",
+            "1",
+            "1",
+            "2",
+            "2"
+          ],
+          [
+            "Calcium, Ca",
+            "20",
+            "2.8.8.2",
+            "2",
+            "2",
+            "4",
+            "4"
+          ],
+          [
+            "Aluminium, Al",
+            "13",
+            "2.8.3",
+            "3",
+            "3 + 10 = 13",
+            "3",
+            "3"
+          ],
+          [
+            "Silicon, Si",
+            "14",
+            "2.8.4",
+            "4",
+            "4 + 10 = 14",
+            "3",
+            "3"
+          ],
+          [
+            "Nitrogen, N",
+            "7",
+            "2.5",
+            "5",
+            "5 + 10 = 15",
+            "2",
+            "2"
+          ],
+          [
+            "Oxygen, O",
+            "8",
+            "2.6",
+            "6",
+            "6 + 10 = 16",
+            "2",
+            "2"
+          ],
+          [
+            "Bromine, Br",
+            "35",
+            "2.8.18.7",
+            "7",
+            "7 + 10 = 17",
+            "4",
+            "4"
+          ],
+          [
+            "Krypton, Kr",
+            "36",
+            "2.8.18.8",
+            "8",
+            "8 + 10 = 18",
+            "4",
+            "4"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "(Note: Data derived from Table 4.1)"
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.2: The Arrangement in the Periodic Table of Elements\nDefinition: The modern Periodic Table of Elements organizes elements into vertical columns called Groups (from 1 to 18) and horizontal rows called Periods (from 1 to 7).\nKey Principle: The position of an element is determined by its electron arrangement; the number of valence electrons dictates its Group, while the number of shells filled with electrons determines its Period.\nFormula: Group = Number of valence electrons (for elements with 1 or 2 valence electrons) Group = Number of valence electrons + 10 (for elements with 3 to 8 valence electrons)\nVariables: Group: The vertical column (1-18) in the Periodic Table. Number of valence electrons: Electrons in the outermost shell of the atom.\nEssential Data & Tables:\nTable: Relationship between Proton Number, Electron Arrangement, and Position\nElement: Lithium, Li | Proton number: 3 | Electron arrangement: 2.1 | Valence electron: 1 | Group: 1 | Number of shells filled: 2 | Period: 2\nElement: Calcium, Ca | Proton number: 20 | Electron arrangement: 2.8.8.2 | Valence electron: 2 | Group: 2 | Number of shells filled: 4 | Period: 4\nElement: Aluminium, Al | Proton number: 13 | Electron arrangement: 2.8.3 | Valence electron: 3 | Group: 3 + 10 = 13 | Number of shells filled: 3 | Period: 3\nElement: Silicon, Si | Proton number: 14 | Electron arrangement: 2.8.4 | Valence electron: 4 | Group: 4 + 10 = 14 | Number of shells filled: 3 | Period: 3\nElement: Nitrogen, N | Proton number: 7 | Electron arrangement: 2.5 | Valence electron: 5 | Group: 5 + 10 = 15 | Number of shells filled: 2 | Period: 2\nElement: Oxygen, O | Proton number: 8 | Electron arrangement: 2.6 | Valence electron: 6 | Group: 6 + 10 = 16 | Number of shells filled: 2 | Period: 2\nElement: Bromine, Br | Proton number: 35 | Electron arrangement: 2.8.18.7 | Valence electron: 7 | Group: 7 + 10 = 17 | Number of shells filled: 4 | Period: 4\nElement: Krypton, Kr | Proton number: 36 | Electron arrangement: 2.8.18.8 | Valence electron: 8 | Group: 8 + 10 = 18 | Number of shells filled: 4 | Period: 4\n\nNote: (Note: Data derived from Table 4.1)"
+  },
+  {
+    "id": "chem_f4_014",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.3",
+    "topic_title": "Elements in Group 18",
+    "definition": "Group 18 elements are known as noble gases or inert gases (e.g., Helium, Neon, Argon) and are chemically unreactive.",
+    "key_principle": "Noble gases do not react with other elements because they already possess stable duplet (for Helium) or octet (for the rest) electron arrangements, meaning they do not donate, accept, or share electrons. When going down the group, atomic radius, melting point, boiling point, and density naturally increase.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Physical Properties of Several Group 18 Elements",
+        "headers": [
+          "Element",
+          "Atomic radius (nm)",
+          "Melting point (°C)",
+          "Boiling point (°C)",
+          "Density (g cm⁻³)"
+        ],
+        "rows": [
+          [
+            "Helium, He",
+            "0.050",
+            "–270",
+            "–269",
+            "0.00017"
+          ],
+          [
+            "Neon, Ne",
+            "0.070",
+            "–248",
+            "–246",
+            "0.00080"
+          ],
+          [
+            "Argon, Ar",
+            "0.094",
+            "–189",
+            "–186",
+            "0.00170"
+          ],
+          [
+            "Krypton, Kr",
+            "0.109",
+            "–156",
+            "–152",
+            "0.00350"
+          ],
+          [
+            "Xenon, Xe",
+            "0.130",
+            "–122",
+            "–108",
+            "0.00550"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "(Note: Data derived from Table 4.2)"
+      },
+      {
+        "type": "list",
+        "title": "Uses of Group 18 Elements in Daily Life",
+        "items": [
+          "Helium: Used to fill weather balloons and in oxygen tanks for divers.",
+          "Neon: Used in advertising board lights.",
+          "Argon: Used to fill electric bulbs and provide an inert atmosphere for welding.",
+          "Krypton: Used in camera flashes and lasers for retina treatment.",
+          "Xenon: Used in lighthouse lamps and anesthesia.",
+          "Radon: Used to treat cancer."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.3: Elements in Group 18\nDefinition: Group 18 elements are known as noble gases or inert gases (e.g., Helium, Neon, Argon) and are chemically unreactive.\nKey Principle: Noble gases do not react with other elements because they already possess stable duplet (for Helium) or octet (for the rest) electron arrangements, meaning they do not donate, accept, or share electrons. When going down the group, atomic radius, melting point, boiling point, and density naturally increase.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Physical Properties of Several Group 18 Elements\nElement: Helium, He | Atomic radius (nm): 0.050 | Melting point (°C): –270 | Boiling point (°C): –269 | Density (g cm⁻³): 0.00017\nElement: Neon, Ne | Atomic radius (nm): 0.070 | Melting point (°C): –248 | Boiling point (°C): –246 | Density (g cm⁻³): 0.00080\nElement: Argon, Ar | Atomic radius (nm): 0.094 | Melting point (°C): –189 | Boiling point (°C): –186 | Density (g cm⁻³): 0.00170\nElement: Krypton, Kr | Atomic radius (nm): 0.109 | Melting point (°C): –156 | Boiling point (°C): –152 | Density (g cm⁻³): 0.00350\nElement: Xenon, Xe | Atomic radius (nm): 0.130 | Melting point (°C): –122 | Boiling point (°C): –108 | Density (g cm⁻³): 0.00550\n\nNote: (Note: Data derived from Table 4.2)\n\nList: Uses of Group 18 Elements in Daily Life\n- Helium: Used to fill weather balloons and in oxygen tanks for divers.\n- Neon: Used in advertising board lights.\n- Argon: Used to fill electric bulbs and provide an inert atmosphere for welding.\n- Krypton: Used in camera flashes and lasers for retina treatment.\n- Xenon: Used in lighthouse lamps and anesthesia.\n- Radon: Used to treat cancer."
+  },
+  {
+    "id": "chem_f4_015",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.4",
+    "topic_title": "Elements in Group 1",
+    "definition": "Group 1 elements, known as alkali metals (e.g., Lithium, Sodium, Potassium), are soft metals with shiny surfaces, low densities, and low melting/boiling points.",
+    "key_principle": "Alkali metals are highly reactive because they tend to donate their single valence electron to achieve a stable electron arrangement. Going down the group, reactivity increases because the increasing atomic size places the valence electron further from the nucleus, weakening the nuclear attraction and making the electron easier to donate.",
+    "formula": "$2Na(s) + Cl_2(g) \\rightarrow 2NaCl(s)$ $4Li(s) + O_2(g) \\rightarrow 2Li_2O(s)$ $Li_2O(s) + H_2O(l) \\rightarrow 2LiOH(aq)$",
+    "variables": "Na: Sodium (alkali metal) Cl₂ / NaCl: Chlorine gas / Sodium chloride (metal chloride) Li / O₂ / Li₂O: Lithium / Oxygen gas / Lithium oxide H₂O / LiOH: Water / Lithium hydroxide (alkaline solution)",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Physical Properties of Several Group 1 Elements",
+        "headers": [
+          "Element",
+          "Atomic radius (nm)",
+          "Melting point (°C)",
+          "Boiling point (°C)"
+        ],
+        "rows": [
+          [
+            "Lithium, Li",
+            "0.133",
+            "186",
+            "1342"
+          ],
+          [
+            "Sodium, Na",
+            "0.186",
+            "98",
+            "880"
+          ],
+          [
+            "Potassium, K",
+            "0.203",
+            "64",
+            "760"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "(Note: Data derived from Table 4.3)"
+      },
+      {
+        "type": "list",
+        "title": "Chemical Reactions of Group 1 Elements",
+        "items": [
+          "With Water: React vigorously to produce alkaline metal hydroxide solutions and hydrogen gas.",
+          "With Oxygen: Burn to form solid metal oxides, which dissolve in water to form alkaline solutions.",
+          "With Chlorine: Burn in chlorine gas to form white solid metal chlorides."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.4: Elements in Group 1\nDefinition: Group 1 elements, known as alkali metals (e.g., Lithium, Sodium, Potassium), are soft metals with shiny surfaces, low densities, and low melting/boiling points.\nKey Principle: Alkali metals are highly reactive because they tend to donate their single valence electron to achieve a stable electron arrangement. Going down the group, reactivity increases because the increasing atomic size places the valence electron further from the nucleus, weakening the nuclear attraction and making the electron easier to donate.\nFormula: $2Na(s) + Cl_2(g) \\rightarrow 2NaCl(s)$ $4Li(s) + O_2(g) \\rightarrow 2Li_2O(s)$ $Li_2O(s) + H_2O(l) \\rightarrow 2LiOH(aq)$\nVariables: Na: Sodium (alkali metal) Cl₂ / NaCl: Chlorine gas / Sodium chloride (metal chloride) Li / O₂ / Li₂O: Lithium / Oxygen gas / Lithium oxide H₂O / LiOH: Water / Lithium hydroxide (alkaline solution)\nEssential Data & Tables:\nTable: Physical Properties of Several Group 1 Elements\nElement: Lithium, Li | Atomic radius (nm): 0.133 | Melting point (°C): 186 | Boiling point (°C): 1342\nElement: Sodium, Na | Atomic radius (nm): 0.186 | Melting point (°C): 98 | Boiling point (°C): 880\nElement: Potassium, K | Atomic radius (nm): 0.203 | Melting point (°C): 64 | Boiling point (°C): 760\n\nNote: (Note: Data derived from Table 4.3)\n\nList: Chemical Reactions of Group 1 Elements\n- With Water: React vigorously to produce alkaline metal hydroxide solutions and hydrogen gas.\n- With Oxygen: Burn to form solid metal oxides, which dissolve in water to form alkaline solutions.\n- With Chlorine: Burn in chlorine gas to form white solid metal chlorides."
+  },
+  {
+    "id": "chem_f4_016",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.5",
+    "topic_title": "Elements in Group 17",
+    "definition": "Group 17 elements, known as halogens (e.g., Fluorine, Chlorine, Bromine, Iodine), exist as diatomic molecules and are reactive non-metals.",
+    "key_principle": "Halogens have seven valence electrons and react by accepting one electron to form an ion with a -1 charge. Going down the group, atomic size increases, causing the nuclear attraction to the valence shell to weaken; this makes it harder to attract an extra electron, thereby decreasing chemical reactivity.",
+    "formula": "$X + e^- \\rightarrow X^-$ $I_2(s) + 2NaOH(aq) \\rightarrow NaI(aq) + NaOI(aq) + H_2O(l)$",
+    "variables": "X / X⁻: Halogen atom / Halide ion. e⁻: Electron. I₂: Iodine (halogen). NaOH / NaI / NaOI: Sodium hydroxide (alkali) / Sodium iodide (metal halide) / Sodium iodate(I) (metal halate).",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Physical Properties of Several Group 17 Elements",
+        "headers": [
+          "Element",
+          "Physical state",
+          "Melting point (°C)",
+          "Boiling point (°C)",
+          "Density (g cm⁻³)"
+        ],
+        "rows": [
+          [
+            "Chlorine, Cl",
+            "Gas (greenish yellow)",
+            "–101",
+            "–34",
+            "0.00300"
+          ],
+          [
+            "Bromine, Br",
+            "Liquid (reddish brown)",
+            "–7",
+            "59",
+            "3.11900"
+          ],
+          [
+            "Iodine, I",
+            "Solid (purplish black)",
+            "114",
+            "184",
+            "4.95000"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "(Note: Data derived from Table 4.6)"
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.5: Elements in Group 17\nDefinition: Group 17 elements, known as halogens (e.g., Fluorine, Chlorine, Bromine, Iodine), exist as diatomic molecules and are reactive non-metals.\nKey Principle: Halogens have seven valence electrons and react by accepting one electron to form an ion with a -1 charge. Going down the group, atomic size increases, causing the nuclear attraction to the valence shell to weaken; this makes it harder to attract an extra electron, thereby decreasing chemical reactivity.\nFormula: $X + e^- \\rightarrow X^-$ $I_2(s) + 2NaOH(aq) \\rightarrow NaI(aq) + NaOI(aq) + H_2O(l)$\nVariables: X / X⁻: Halogen atom / Halide ion. e⁻: Electron. I₂: Iodine (halogen). NaOH / NaI / NaOI: Sodium hydroxide (alkali) / Sodium iodide (metal halide) / Sodium iodate(I) (metal halate).\nEssential Data & Tables:\nTable: Physical Properties of Several Group 17 Elements\nElement: Chlorine, Cl | Physical state: Gas (greenish yellow) | Melting point (°C): –101 | Boiling point (°C): –34 | Density (g cm⁻³): 0.00300\nElement: Bromine, Br | Physical state: Liquid (reddish brown) | Melting point (°C): –7 | Boiling point (°C): 59 | Density (g cm⁻³): 3.11900\nElement: Iodine, I | Physical state: Solid (purplish black) | Melting point (°C): 114 | Boiling point (°C): 184 | Density (g cm⁻³): 4.95000\n\nNote: (Note: Data derived from Table 4.6)"
+  },
+  {
+    "id": "chem_f4_017",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.6",
+    "topic_title": "Elements in Period 3",
+    "definition": "Period 3 consists of elements from Sodium (Na) to Argon (Ar), all of which have three electron-filled shells.",
+    "key_principle": "Moving across Period 3 from left to right, the atomic radius decreases, causing electronegativity to increase and the physical state to transition from solid to gas. Correspondingly, the chemical properties of their oxides change from basic to amphoteric, and finally to acidic.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Properties of Oxides Across Period 3",
+        "items": [
+          "Basic Oxides: Sodium oxide (Na₂O), Magnesium oxide (MgO).",
+          "Amphoteric Oxides: Aluminium oxide (Al₂O₃).",
+          "Acidic Oxides: Silicon(IV) oxide (SiO₂), Phosphorus(V) oxide (P₄O₁₀), Sulphur dioxide (SO₂), Dichlorine heptoxide (Cl₂O₇)."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Uses of Semi-Metallic Elements",
+        "items": [
+          "Silicon: Acts as a semiconductor (weak electrical conductor at room temperature but good at high temperatures) and is used in manufacturing electronic microchips for computers and mobile phones."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.6: Elements in Period 3\nDefinition: Period 3 consists of elements from Sodium (Na) to Argon (Ar), all of which have three electron-filled shells.\nKey Principle: Moving across Period 3 from left to right, the atomic radius decreases, causing electronegativity to increase and the physical state to transition from solid to gas. Correspondingly, the chemical properties of their oxides change from basic to amphoteric, and finally to acidic.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Properties of Oxides Across Period 3\n- Basic Oxides: Sodium oxide (Na₂O), Magnesium oxide (MgO).\n- Amphoteric Oxides: Aluminium oxide (Al₂O₃).\n- Acidic Oxides: Silicon(IV) oxide (SiO₂), Phosphorus(V) oxide (P₄O₁₀), Sulphur dioxide (SO₂), Dichlorine heptoxide (Cl₂O₇).\n\nList: Uses of Semi-Metallic Elements\n- Silicon: Acts as a semiconductor (weak electrical conductor at room temperature but good at high temperatures) and is used in manufacturing electronic microchips for computers and mobile phones."
+  },
+  {
+    "id": "chem_f4_018",
+    "chapter_number": "4",
+    "chapter_title": "Chapter 4: The Periodic Table of Elements",
+    "topic_number": "4.7",
+    "topic_title": "Transition Elements",
+    "definition": "Transition elements are metals located in Groups 3 to 12 of the Periodic Table of Elements (e.g., Chromium, Manganese, Iron, Copper).",
+    "key_principle": "Aside from having typical metallic properties, transition elements exhibit four special characteristics: they function as catalysts to speed up reactions, form colored ions/compounds, have more than one oxidation number, and can form complex ions.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Special Characteristics of Transition Elements",
+        "headers": [
+          "Transition element / Ion",
+          "Oxidation numbers",
+          "Complex ion formed",
+          "Colour of solution"
+        ],
+        "rows": [
+          [
+            "Chromium, Cr",
+            "+3, +6",
+            "-",
+            "Green (Cr³⁺), Orange (Cr₂O₇²⁻)"
+          ],
+          [
+            "Manganese, Mn",
+            "+2, +4, +7",
+            "-",
+            "Pink (Mn²⁺), Purple (MnO₄⁻)"
+          ],
+          [
+            "Iron, Fe",
+            "+2, +3",
+            "[Fe(CN)₆]³⁻, [Fe(CN)₆]⁴⁻, [Fe(H₂O)₆]²⁺",
+            "Green (Fe²⁺), Brown (Fe³⁺)"
+          ],
+          [
+            "Copper, Cu",
+            "+1, +2",
+            "[Cu(NH₃)₄]²⁺",
+            "Blue (Cu²⁺)"
+          ]
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Transition Elements as Catalysts in Industries",
+        "items": [
+          "Iron (Fe): Catalyst in the Haber Process to produce ammonia (NH₃).",
+          "Platinum (Pt): Catalyst in the Ostwald Process to produce nitric acid (HNO₃).",
+          "Vanadium(V) oxide (V₂O₅): Catalyst in the Contact Process to produce sulphuric acid (H₂SO₄).",
+          "Nickel (Ni) / Platinum (Pt): Catalyst in the hydrogenation process of vegetable oils to produce margarine."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 4: The Periodic Table of Elements\nTopic 4.7: Transition Elements\nDefinition: Transition elements are metals located in Groups 3 to 12 of the Periodic Table of Elements (e.g., Chromium, Manganese, Iron, Copper).\nKey Principle: Aside from having typical metallic properties, transition elements exhibit four special characteristics: they function as catalysts to speed up reactions, form colored ions/compounds, have more than one oxidation number, and can form complex ions.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Special Characteristics of Transition Elements\nTransition element / Ion: Chromium, Cr | Oxidation numbers: +3, +6 | Complex ion formed: - | Colour of solution: Green (Cr³⁺), Orange (Cr₂O₇²⁻)\nTransition element / Ion: Manganese, Mn | Oxidation numbers: +2, +4, +7 | Complex ion formed: - | Colour of solution: Pink (Mn²⁺), Purple (MnO₄⁻)\nTransition element / Ion: Iron, Fe | Oxidation numbers: +2, +3 | Complex ion formed: [Fe(CN)₆]³⁻, [Fe(CN)₆]⁴⁻, [Fe(H₂O)₆]²⁺ | Colour of solution: Green (Fe²⁺), Brown (Fe³⁺)\nTransition element / Ion: Copper, Cu | Oxidation numbers: +1, +2 | Complex ion formed: [Cu(NH₃)₄]²⁺ | Colour of solution: Blue (Cu²⁺)\n\nList: Transition Elements as Catalysts in Industries\n- Iron (Fe): Catalyst in the Haber Process to produce ammonia (NH₃).\n- Platinum (Pt): Catalyst in the Ostwald Process to produce nitric acid (HNO₃).\n- Vanadium(V) oxide (V₂O₅): Catalyst in the Contact Process to produce sulphuric acid (H₂SO₄).\n- Nickel (Ni) / Platinum (Pt): Catalyst in the hydrogenation process of vegetable oils to produce margarine."
+  },
+  {
+    "id": "chem_f4_019",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.1",
+    "topic_title": "Basics of Compound Formation",
+    "definition": "Compounds are formed when two or more elements combine by either transferring or sharing electrons to achieve a stable octet or duplet electron arrangement.",
+    "key_principle": "Noble gases are chemically unreactive because they already possess stable duplet or octet electron arrangements, whereas atoms of other elements must form chemical bonds (ionic or covalent) using their valence electrons to achieve this stability.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.1: Basics of Compound Formation\nDefinition: Compounds are formed when two or more elements combine by either transferring or sharing electrons to achieve a stable octet or duplet electron arrangement.\nKey Principle: Noble gases are chemically unreactive because they already possess stable duplet or octet electron arrangements, whereas atoms of other elements must form chemical bonds (ionic or covalent) using their valence electrons to achieve this stability.\nFormula: Not Applicable\nVariables: Not Applicable"
+  },
+  {
+    "id": "chem_f4_020",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.2",
+    "topic_title": "Ionic Bond",
+    "definition": "An ionic bond is formed by the transfer of electrons between a metal atom and a non-metal atom, producing oppositely charged ions that attract one another through strong electrostatic attraction forces.",
+    "key_principle": "A metal atom donates its valence electron(s) to form a positively-charged ion (cation), while a non-metal atom accepts electron(s) to form a negatively-charged ion (anion), allowing both to achieve a stable octet or duplet electron arrangement.",
+    "formula": "$\\text{Na} \\rightarrow \\text{Na}^+ + e^-$. $\\text{F} + e^- \\rightarrow \\text{F}^-$.",
+    "variables": "Na / $\\text{Na}^+$: Sodium atom / Sodium ion (cation). F / $\\text{F}^-$: Fluorine atom / Fluoride ion (anion). $e^-$: Electron. Essential Data & Tables (No irregular tables or essential data to convert in this section)",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.2: Ionic Bond\nDefinition: An ionic bond is formed by the transfer of electrons between a metal atom and a non-metal atom, producing oppositely charged ions that attract one another through strong electrostatic attraction forces.\nKey Principle: A metal atom donates its valence electron(s) to form a positively-charged ion (cation), while a non-metal atom accepts electron(s) to form a negatively-charged ion (anion), allowing both to achieve a stable octet or duplet electron arrangement.\nFormula: $\\text{Na} \\rightarrow \\text{Na}^+ + e^-$. $\\text{F} + e^- \\rightarrow \\text{F}^-$.\nVariables: Na / $\\text{Na}^+$: Sodium atom / Sodium ion (cation). F / $\\text{F}^-$: Fluorine atom / Fluoride ion (anion). $e^-$: Electron. Essential Data & Tables (No irregular tables or essential data to convert in this section)"
+  },
+  {
+    "id": "chem_f4_021",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.3",
+    "topic_title": "Covalent Bond",
+    "definition": "Covalent bonds are formed when non-metal atoms share their electrons to achieve a stable duplet or octet electron arrangement.",
+    "key_principle": "Covalent bonds can exist as single bonds (sharing one pair of electrons), double bonds (sharing two pairs of electrons), or triple bonds (sharing three pairs of electrons), and their formation can be visualised using the Lewis structure which displays the involved valence electrons.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Comparison between Ionic Bond and Covalent Bond",
+        "headers": [
+          "Feature",
+          "Ionic Bond",
+          "Covalent Bond"
+        ],
+        "rows": [
+          [
+            "Type of atoms involved",
+            "Between metal atoms and non-metal atoms.",
+            "Between non-metal atoms."
+          ],
+          [
+            "Bonding mechanism",
+            "Transfer of electrons.",
+            "Sharing of electrons."
+          ],
+          [
+            "Particles formed",
+            "Forms a positively-charged ion and a negatively-charged ion.",
+            "Forms molecules."
+          ],
+          [
+            "Similarities",
+            "Involve valence electrons only; Atoms achieve stable octet or duplet electron arrangement.",
+            "Involve valence electrons only; Atoms achieve stable octet or duplet electron arrangement."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.3: Covalent Bond\nDefinition: Covalent bonds are formed when non-metal atoms share their electrons to achieve a stable duplet or octet electron arrangement.\nKey Principle: Covalent bonds can exist as single bonds (sharing one pair of electrons), double bonds (sharing two pairs of electrons), or triple bonds (sharing three pairs of electrons), and their formation can be visualised using the Lewis structure which displays the involved valence electrons.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Comparison between Ionic Bond and Covalent Bond\nFeature: Type of atoms involved | Ionic Bond: Between metal atoms and non-metal atoms. | Covalent Bond: Between non-metal atoms.\nFeature: Bonding mechanism | Ionic Bond: Transfer of electrons. | Covalent Bond: Sharing of electrons.\nFeature: Particles formed | Ionic Bond: Forms a positively-charged ion and a negatively-charged ion. | Covalent Bond: Forms molecules.\nFeature: Similarities | Ionic Bond: Involve valence electrons only; Atoms achieve stable octet or duplet electron arrangement. | Covalent Bond: Involve valence electrons only; Atoms achieve stable octet or duplet electron arrangement."
+  },
+  {
+    "id": "chem_f4_022",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.4",
+    "topic_title": "Hydrogen Bond",
+    "definition": "Hydrogen bonds are attraction forces between a hydrogen atom ($\\text{H}$) bonded to a highly electronegative atom (such as nitrogen, oxygen, or fluorine) and another highly electronegative atom ($\\text{N, O, or F}$) in another molecule.",
+    "key_principle": "The formation of hydrogen bonds between molecules requires more heat energy to break alongside weak Van der Waals forces, resulting in higher boiling points; it also explains the solubility of covalent compounds like ethanol in water.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Role of Hydrogen Bonds in Daily Life",
+        "items": [
+          "Wet Hair: When hair is wet, protein molecules form hydrogen bonds with water molecules instead of each other, causing the hair to stick together.",
+          "Turning Book Pages: A wet finger helps to turn pages because the water molecules on the finger form hydrogen bonds with the cellulose in the paper."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.4: Hydrogen Bond\nDefinition: Hydrogen bonds are attraction forces between a hydrogen atom ($\\text{H}$) bonded to a highly electronegative atom (such as nitrogen, oxygen, or fluorine) and another highly electronegative atom ($\\text{N, O, or F}$) in another molecule.\nKey Principle: The formation of hydrogen bonds between molecules requires more heat energy to break alongside weak Van der Waals forces, resulting in higher boiling points; it also explains the solubility of covalent compounds like ethanol in water.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Role of Hydrogen Bonds in Daily Life\n- Wet Hair: When hair is wet, protein molecules form hydrogen bonds with water molecules instead of each other, causing the hair to stick together.\n- Turning Book Pages: A wet finger helps to turn pages because the water molecules on the finger form hydrogen bonds with the cellulose in the paper."
+  },
+  {
+    "id": "chem_f4_023",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.5",
+    "topic_title": "Dative Bond",
+    "definition": "A dative bond (or coordinate bond) is a type of covalent bond where the shared electron pair is contributed by only one of the participating atoms.",
+    "key_principle": "An atom with a lone pair of electrons not involved in a covalent bond (such as the oxygen atom in water or nitrogen in ammonia) shares that pair with an ion that has an empty electron shell (such as a hydrogen ion, $\\text{H}^+$), allowing both to achieve stability.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.5: Dative Bond\nDefinition: A dative bond (or coordinate bond) is a type of covalent bond where the shared electron pair is contributed by only one of the participating atoms.\nKey Principle: An atom with a lone pair of electrons not involved in a covalent bond (such as the oxygen atom in water or nitrogen in ammonia) shares that pair with an ion that has an empty electron shell (such as a hydrogen ion, $\\text{H}^+$), allowing both to achieve stability.\nFormula: Not Applicable\nVariables: Not Applicable"
+  },
+  {
+    "id": "chem_f4_024",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.6",
+    "topic_title": "Metallic Bond",
+    "definition": "A metallic bond is formed by the electrostatic attraction force between a \"sea of electrons\" and positively-charged metal ions.",
+    "key_principle": "Metal atoms are packed closely in a solid state, and their valence electrons are easily donated and delocalised, forming a freely moving sea of electrons; this allows metals to conduct electricity as the electrons carry charges from the negative to the positive terminal.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.6: Metallic Bond\nDefinition: A metallic bond is formed by the electrostatic attraction force between a \"sea of electrons\" and positively-charged metal ions.\nKey Principle: Metal atoms are packed closely in a solid state, and their valence electrons are easily donated and delocalised, forming a freely moving sea of electrons; this allows metals to conduct electricity as the electrons carry charges from the negative to the positive terminal.\nFormula: Not Applicable\nVariables: Not Applicable"
+  },
+  {
+    "id": "chem_f4_025",
+    "chapter_number": "5",
+    "chapter_title": "Chapter 5: Chemical Bond",
+    "topic_number": "5.7",
+    "topic_title": "Properties of Ionic Compounds and Covalent Compounds",
+    "definition": "Ionic and covalent compounds possess distinctly different physical properties—such as electrical conductivity, solubility, and melting or boiling points—due to their distinct molecular and lattice structures.",
+    "key_principle": "Ionic compounds conduct electricity in molten or aqueous states, are generally soluble in water, and have high melting/boiling points due to strong electrostatic attraction forces. Covalent compounds cannot conduct electricity, are mostly soluble in organic solvents instead of water, and have lower melting/boiling points due to weak Van der Waals attraction forces (except for giant covalent molecules).",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Structure of Covalent Compounds",
+        "headers": [
+          "Feature",
+          "Simple Molecule",
+          "Giant Molecule"
+        ],
+        "rows": [
+          [
+            "Structure",
+            "Small and simple structures that can be found as solids, liquids, or gases.",
+            "Very large structure, usually existing as solids."
+          ],
+          [
+            "Chemical bond",
+            "Strong covalent bonds in the molecules, but weak Van der Waals attraction forces between molecules.",
+            "Strong covalent bonds in the molecules only; no Van der Waals attraction forces because of the giant structure."
+          ],
+          [
+            "Melting & Boiling Point",
+            "Low, because only a little heat is required to overcome the weak Van der Waals attraction forces.",
+            "High, because a lot of heat is required to break the strong covalent bonds."
+          ],
+          [
+            "Examples",
+            "Water ($\\text{H}_2\\text{O}$), Carbon dioxide ($\\text{CO}_2$).",
+            "Silicon dioxide ($\\text{SiO}_2$)."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Uses of Ionic and Covalent Compounds in Daily Life",
+        "headers": [
+          "Sector",
+          "Uses of Ionic Compounds",
+          "Uses of Covalent Compounds"
+        ],
+        "rows": [
+          [
+            "Agriculture",
+            "Ammonium nitrate ($\\text{NH}_4\\text{NO}_3$) and potassium chloride ($\\text{KCl}$) are used in fertilisers.",
+            "Bromoethane ($\\text{C}_2\\text{H}_5\\text{Br}$) and chloropicrin ($\\text{CCl}_3\\text{NO}_2$) are found in pesticides."
+          ],
+          [
+            "Industry",
+            "Lithium iodide ($\\text{LiI}$) is used in batteries.",
+            "Paint contains pigment and turpentine solvent."
+          ],
+          [
+            "Medicine",
+            "Sodium bicarbonate ($\\text{NaHCO}_3$) is used in antacids to relieve gastric pain.",
+            "Paracetamol ($\\text{C}_8\\text{H}_9\\text{NO}_2$) treats fever and irritation."
+          ],
+          [
+            "Domestic Use",
+            "Sodium chlorate(V) ($\\text{NaClO}_3$) is used in detergents for cleaning.",
+            "Glycerol ($\\text{C}_3\\text{H}_5(\\text{OH})_3$) is used in skincare products to moisturise skin."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 5: Chemical Bond\nTopic 5.7: Properties of Ionic Compounds and Covalent Compounds\nDefinition: Ionic and covalent compounds possess distinctly different physical properties—such as electrical conductivity, solubility, and melting or boiling points—due to their distinct molecular and lattice structures.\nKey Principle: Ionic compounds conduct electricity in molten or aqueous states, are generally soluble in water, and have high melting/boiling points due to strong electrostatic attraction forces. Covalent compounds cannot conduct electricity, are mostly soluble in organic solvents instead of water, and have lower melting/boiling points due to weak Van der Waals attraction forces (except for giant covalent molecules).\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Structure of Covalent Compounds\nFeature: Structure | Simple Molecule: Small and simple structures that can be found as solids, liquids, or gases. | Giant Molecule: Very large structure, usually existing as solids.\nFeature: Chemical bond | Simple Molecule: Strong covalent bonds in the molecules, but weak Van der Waals attraction forces between molecules. | Giant Molecule: Strong covalent bonds in the molecules only; no Van der Waals attraction forces because of the giant structure.\nFeature: Melting & Boiling Point | Simple Molecule: Low, because only a little heat is required to overcome the weak Van der Waals attraction forces. | Giant Molecule: High, because a lot of heat is required to break the strong covalent bonds.\nFeature: Examples | Simple Molecule: Water ($\\text{H}_2\\text{O}$), Carbon dioxide ($\\text{CO}_2$). | Giant Molecule: Silicon dioxide ($\\text{SiO}_2$).\n\nTable: Uses of Ionic and Covalent Compounds in Daily Life\nSector: Agriculture | Uses of Ionic Compounds: Ammonium nitrate ($\\text{NH}_4\\text{NO}_3$) and potassium chloride ($\\text{KCl}$) are used in fertilisers. | Uses of Covalent Compounds: Bromoethane ($\\text{C}_2\\text{H}_5\\text{Br}$) and chloropicrin ($\\text{CCl}_3\\text{NO}_2$) are found in pesticides.\nSector: Industry | Uses of Ionic Compounds: Lithium iodide ($\\text{LiI}$) is used in batteries. | Uses of Covalent Compounds: Paint contains pigment and turpentine solvent.\nSector: Medicine | Uses of Ionic Compounds: Sodium bicarbonate ($\\text{NaHCO}_3$) is used in antacids to relieve gastric pain. | Uses of Covalent Compounds: Paracetamol ($\\text{C}_8\\text{H}_9\\text{NO}_2$) treats fever and irritation.\nSector: Domestic Use | Uses of Ionic Compounds: Sodium chlorate(V) ($\\text{NaClO}_3$) is used in detergents for cleaning. | Uses of Covalent Compounds: Glycerol ($\\text{C}_3\\text{H}_5(\\text{OH})_3$) is used in skincare products to moisturise skin."
+  },
+  {
+    "id": "chem_f4_026",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.1",
+    "topic_title": "The Role of Water in Showing Acidic and Alkaline Properties",
+    "definition": "Acid is a chemical substance that ionises in water to produce hydrogen ions ($H^+$), while an alkali is a base that is soluble in water and ionises to produce hydroxide ions ($OH^-$).",
+    "key_principle": "Acids and alkalis only show their acidic and alkaline properties in the presence of water because water enables them to ionise and produce $H^+$ and $OH^-$ ions respectively; without water, they remain as neutral molecules.",
+    "formula": "$HCl(aq) \\rightarrow H^+(aq) + Cl^-(aq)$. $NH_3(aq) + H_2O(l) \\rightleftharpoons NH_4^+(aq) + OH^-(aq)$.",
+    "variables": "$H^+$: Hydrogen ion. $OH^-$: Hydroxide ion. $H_3O^+$: Hydroxonium ion (formed when a hydrogen ion combines with a water molecule).",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Basicity of Acids",
+        "items": [
+          "Monoprotic acid: Produces one $H^+$ ion per acid molecule (e.g., Hydrochloric acid, $HCl$).",
+          "Diprotic acid: Produces two $H^+$ ions per acid molecule (e.g., Sulphuric acid, $H_2SO_4$).",
+          "Triprotic acid: Produces three $H^+$ ions per acid molecule (e.g., Phosphoric acid, $H_3PO_4$)."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.1: The Role of Water in Showing Acidic and Alkaline Properties\nDefinition: Acid is a chemical substance that ionises in water to produce hydrogen ions ($H^+$), while an alkali is a base that is soluble in water and ionises to produce hydroxide ions ($OH^-$).\nKey Principle: Acids and alkalis only show their acidic and alkaline properties in the presence of water because water enables them to ionise and produce $H^+$ and $OH^-$ ions respectively; without water, they remain as neutral molecules.\nFormula: $HCl(aq) \\rightarrow H^+(aq) + Cl^-(aq)$. $NH_3(aq) + H_2O(l) \\rightleftharpoons NH_4^+(aq) + OH^-(aq)$.\nVariables: $H^+$: Hydrogen ion. $OH^-$: Hydroxide ion. $H_3O^+$: Hydroxonium ion (formed when a hydrogen ion combines with a water molecule).\nEssential Data & Tables:\nList: Basicity of Acids\n- Monoprotic acid: Produces one $H^+$ ion per acid molecule (e.g., Hydrochloric acid, $HCl$).\n- Diprotic acid: Produces two $H^+$ ions per acid molecule (e.g., Sulphuric acid, $H_2SO_4$).\n- Triprotic acid: Produces three $H^+$ ions per acid molecule (e.g., Phosphoric acid, $H_3PO_4$)."
+  },
+  {
+    "id": "chem_f4_027",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.2",
+    "topic_title": "pH Value",
+    "definition": "pH is a logarithmic measure of the concentration of hydrogen ions in an aqueous solution, mapped on a scale from 0 to 14 to indicate the degree of acidity or alkalinity.",
+    "key_principle": "Solutions with a pH less than 7 are acidic, while solutions with a pH greater than 7 are alkaline. The higher the concentration of hydrogen ions ($H^+$), the lower the pH value (higher acidity), whereas the higher the concentration of hydroxide ions ($OH^-$), the higher the pH value (higher alkalinity).",
+    "formula": "$pH = -\\log [H^+]$. $pOH = -\\log [OH^-]$. $pH + pOH = 14$.",
+    "variables": "$[H^+]$: Concentration of hydrogen ions in $\\text{mol dm}^{-3}$. $[OH^-]$: Concentration of hydroxide ions in $\\text{mol dm}^{-3}$. Essential Data & Tables (No irregular tables or essential data to convert in this section)",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.2: pH Value\nDefinition: pH is a logarithmic measure of the concentration of hydrogen ions in an aqueous solution, mapped on a scale from 0 to 14 to indicate the degree of acidity or alkalinity.\nKey Principle: Solutions with a pH less than 7 are acidic, while solutions with a pH greater than 7 are alkaline. The higher the concentration of hydrogen ions ($H^+$), the lower the pH value (higher acidity), whereas the higher the concentration of hydroxide ions ($OH^-$), the higher the pH value (higher alkalinity).\nFormula: $pH = -\\log [H^+]$. $pOH = -\\log [OH^-]$. $pH + pOH = 14$.\nVariables: $[H^+]$: Concentration of hydrogen ions in $\\text{mol dm}^{-3}$. $[OH^-]$: Concentration of hydroxide ions in $\\text{mol dm}^{-3}$. Essential Data & Tables (No irregular tables or essential data to convert in this section)"
+  },
+  {
+    "id": "chem_f4_028",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.3",
+    "topic_title": "Strength of Acids and Alkalis",
+    "definition": "The strength of an acid or an alkali depends on its degree of dissociation (ionisation) in water.",
+    "key_principle": "A strong acid or alkali ionises completely in water to produce a high concentration of hydrogen ions ($H^+$) or hydroxide ions ($OH^-$). Conversely, a weak acid or alkali ionises only partially in water, producing a low concentration of $H^+$ or $OH^-$ ions.",
+    "formula": "Complete Ionisation (Strong Acid): $HCl(aq) \\rightarrow H^+(aq) + Cl^-(aq)$. Partial Ionisation (Weak Acid): $CH_3COOH(aq) \\rightleftharpoons H^+(aq) + CH_3COO^-(aq)$.",
+    "variables": "Not Applicable",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.3: Strength of Acids and Alkalis\nDefinition: The strength of an acid or an alkali depends on its degree of dissociation (ionisation) in water.\nKey Principle: A strong acid or alkali ionises completely in water to produce a high concentration of hydrogen ions ($H^+$) or hydroxide ions ($OH^-$). Conversely, a weak acid or alkali ionises only partially in water, producing a low concentration of $H^+$ or $OH^-$ ions.\nFormula: Complete Ionisation (Strong Acid): $HCl(aq) \\rightarrow H^+(aq) + Cl^-(aq)$. Partial Ionisation (Weak Acid): $CH_3COOH(aq) \\rightleftharpoons H^+(aq) + CH_3COO^-(aq)$.\nVariables: Not Applicable"
+  },
+  {
+    "id": "chem_f4_029",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.4",
+    "topic_title": "Chemical Properties of Acids and Alkalis",
+    "definition": "The chemical properties of acids and alkalis refer to how they react with specific substances (such as bases, reactive metals, metal carbonates, and ammonium salts) to produce new substances like salts, water, and gases.",
+    "key_principle": "Acids will react with bases, reactive metals, and metal carbonates. Alkalis will react with acids, ammonium salts, and metal ions.",
+    "formula": "Acids: Acid + Base $\\rightarrow$ Salt + Water. Acid + Reactive metal $\\rightarrow$ Salt + Hydrogen gas ($H_2$). Acid + Metal carbonate $\\rightarrow$ Salt + Water + Carbon dioxide gas ($CO_2$). Alkalis: Alkali + Acid $\\rightarrow$ Salt + Water. Alkali + Ammonium salt $\\rightarrow$ Salt + Water + Ammonia gas ($NH_3$). Alkali + Metal ion $\\rightarrow$ Insoluble metal hydroxide + Cation from alkali.",
+    "variables": "Not Applicable",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.4: Chemical Properties of Acids and Alkalis\nDefinition: The chemical properties of acids and alkalis refer to how they react with specific substances (such as bases, reactive metals, metal carbonates, and ammonium salts) to produce new substances like salts, water, and gases.\nKey Principle: Acids will react with bases, reactive metals, and metal carbonates. Alkalis will react with acids, ammonium salts, and metal ions.\nFormula: Acids: Acid + Base $\\rightarrow$ Salt + Water. Acid + Reactive metal $\\rightarrow$ Salt + Hydrogen gas ($H_2$). Acid + Metal carbonate $\\rightarrow$ Salt + Water + Carbon dioxide gas ($CO_2$). Alkalis: Alkali + Acid $\\rightarrow$ Salt + Water. Alkali + Ammonium salt $\\rightarrow$ Salt + Water + Ammonia gas ($NH_3$). Alkali + Metal ion $\\rightarrow$ Insoluble metal hydroxide + Cation from alkali.\nVariables: Not Applicable"
+  },
+  {
+    "id": "chem_f4_030",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.5",
+    "topic_title": "Concentration of Aqueous Solution",
+    "definition": "Concentration is a measurement that specifies the quantity of solute dissolved in a unit volume of solution, typically $1\\text{ dm}^3$.",
+    "key_principle": "Concentration can be expressed in terms of mass ($\\text{g dm}^{-3}$) or number of moles (molarity, $\\text{mol dm}^{-3}$). These units can be interconverted using the molar mass of the solute.",
+    "formula": "$\\text{Concentration (g dm}^{-3}\\text{)} = \\frac{\\text{Mass of solute (g)}}{\\text{Volume of solution (dm}^3\\text{)}}$. $\\text{Molarity (mol dm}^{-3}\\text{)} = \\frac{\\text{Number of moles of solute (mol)}}{\\text{Volume of solution (dm}^3\\text{)}}$. $n = \\frac{MV}{1000}$. $\\text{Molarity} = \\frac{\\text{Concentration}}{\\text{Molar mass}}$.",
+    "variables": "$n$: Number of moles of solute. $M$: Molarity of the solution. $V$: Volume of the solution in $\\text{cm}^3$. Essential Data & Tables (No irregular tables or essential data to convert in this section)",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.5: Concentration of Aqueous Solution\nDefinition: Concentration is a measurement that specifies the quantity of solute dissolved in a unit volume of solution, typically $1\\text{ dm}^3$.\nKey Principle: Concentration can be expressed in terms of mass ($\\text{g dm}^{-3}$) or number of moles (molarity, $\\text{mol dm}^{-3}$). These units can be interconverted using the molar mass of the solute.\nFormula: $\\text{Concentration (g dm}^{-3}\\text{)} = \\frac{\\text{Mass of solute (g)}}{\\text{Volume of solution (dm}^3\\text{)}}$. $\\text{Molarity (mol dm}^{-3}\\text{)} = \\frac{\\text{Number of moles of solute (mol)}}{\\text{Volume of solution (dm}^3\\text{)}}$. $n = \\frac{MV}{1000}$. $\\text{Molarity} = \\frac{\\text{Concentration}}{\\text{Molar mass}}$.\nVariables: $n$: Number of moles of solute. $M$: Molarity of the solution. $V$: Volume of the solution in $\\text{cm}^3$. Essential Data & Tables (No irregular tables or essential data to convert in this section)"
+  },
+  {
+    "id": "chem_f4_031",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.6",
+    "topic_title": "Standard Solution",
+    "definition": "A standard solution is an aqueous solution with a known, accurate concentration.",
+    "key_principle": "Standard solutions can be prepared from solid solutes or by diluting an existing concentrated stock solution. During the dilution process, water is added to alter the concentration, but the total number of moles of solute contained in the solution remains completely unchanged.",
+    "formula": "$M_1V_1 = M_2V_2$.",
+    "variables": "$M_1$: Molarity of aqueous solution (stock solution) before dilution. $V_1$: Volume of aqueous solution (stock solution) before dilution. $M_2$: Molarity of aqueous solution (prepared solution) after dilution. $V_2$: Volume of aqueous solution (prepared solution) after dilution. Essential Data & Tables (No irregular tables or essential data to convert in this section)",
+    "essential_data": [],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.6: Standard Solution\nDefinition: A standard solution is an aqueous solution with a known, accurate concentration.\nKey Principle: Standard solutions can be prepared from solid solutes or by diluting an existing concentrated stock solution. During the dilution process, water is added to alter the concentration, but the total number of moles of solute contained in the solution remains completely unchanged.\nFormula: $M_1V_1 = M_2V_2$.\nVariables: $M_1$: Molarity of aqueous solution (stock solution) before dilution. $V_1$: Volume of aqueous solution (stock solution) before dilution. $M_2$: Molarity of aqueous solution (prepared solution) after dilution. $V_2$: Volume of aqueous solution (prepared solution) after dilution. Essential Data & Tables (No irregular tables or essential data to convert in this section)"
+  },
+  {
+    "id": "chem_f4_032",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.7",
+    "topic_title": "Neutralisation",
+    "definition": "Neutralisation is a chemical reaction between an acid and an alkali (base) to produce salt and water only, where the acid loses its acidity and the alkali loses its alkalinity.",
+    "key_principle": "The actual reaction only involves the combination of hydrogen ions ($H^+$) from the acid and hydroxide ions ($OH^-$) from the alkali to produce neutral water molecules. The end point of titration is determined when an acid-base indicator changes colour.",
+    "formula": "Ionic equation: $H^+(aq) + OH^-(aq) \\rightarrow H_2O(l)$. Calculation formula: $\\frac{M_aV_a}{M_bV_b} = \\frac{a}{b}$.",
+    "variables": "$M_a, M_b$: Molarity of acid A and alkali B. $V_a, V_b$: Volume of acid A and alkali B. $a, b$: Mole ratio from the balanced chemical equation representing acid A and alkali B.",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Colours of Indicators in Different Mediums",
+        "headers": [
+          "Indicator",
+          "Acidic",
+          "Neutral",
+          "Alkaline"
+        ],
+        "rows": [
+          [
+            "Phenolphthalein",
+            "Colourless",
+            "Colourless",
+            "Pink"
+          ],
+          [
+            "Methyl orange",
+            "Red",
+            "Orange",
+            "Yellow"
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "(Data derived from Table 6.5)"
+      },
+      {
+        "type": "list",
+        "title": "Applications of Neutralisation in Daily Life",
+        "items": [
+          "Medicine: Antacids contain magnesium hydroxide to relieve gastric pain by neutralising excess hydrochloric acid.",
+          "Dental Health: Toothpaste contains bases that neutralise lactic acid produced by bacteria.",
+          "Agriculture: Slaked lime (alkaline) is used to treat acidic soil.",
+          "Hair Health: Weak alkalis in shampoo neutralise acids on the hair."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.7: Neutralisation\nDefinition: Neutralisation is a chemical reaction between an acid and an alkali (base) to produce salt and water only, where the acid loses its acidity and the alkali loses its alkalinity.\nKey Principle: The actual reaction only involves the combination of hydrogen ions ($H^+$) from the acid and hydroxide ions ($OH^-$) from the alkali to produce neutral water molecules. The end point of titration is determined when an acid-base indicator changes colour.\nFormula: Ionic equation: $H^+(aq) + OH^-(aq) \\rightarrow H_2O(l)$. Calculation formula: $\\frac{M_aV_a}{M_bV_b} = \\frac{a}{b}$.\nVariables: $M_a, M_b$: Molarity of acid A and alkali B. $V_a, V_b$: Volume of acid A and alkali B. $a, b$: Mole ratio from the balanced chemical equation representing acid A and alkali B.\nEssential Data & Tables:\nTable: Colours of Indicators in Different Mediums\nIndicator: Phenolphthalein | Acidic: Colourless | Neutral: Colourless | Alkaline: Pink\nIndicator: Methyl orange | Acidic: Red | Neutral: Orange | Alkaline: Yellow\n\nNote: (Data derived from Table 6.5)\n\nList: Applications of Neutralisation in Daily Life\n- Medicine: Antacids contain magnesium hydroxide to relieve gastric pain by neutralising excess hydrochloric acid.\n- Dental Health: Toothpaste contains bases that neutralise lactic acid produced by bacteria.\n- Agriculture: Slaked lime (alkaline) is used to treat acidic soil.\n- Hair Health: Weak alkalis in shampoo neutralise acids on the hair."
+  },
+  {
+    "id": "chem_f4_033",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.8",
+    "topic_title": "Salts, Crystals and Their Uses in Daily Life",
+    "definition": "A salt is an ionic compound formed when the hydrogen ion ($H^+$) from an acid is replaced with a metal ion or an ammonium ion ($NH_4^+$).",
+    "key_principle": "All salts form crystals that possess highly specific geometrical shapes due to the orderly and compact arrangement of particles in their solid lattice structures.",
+    "formula": "Not Applicable.",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Physical Properties of Salt Crystals",
+        "items": [
+          "Has a flat surface, straight sides, and sharp vertices.",
+          "Has a specific geometrical shape such as a cube, cuboid, rhombus, or prism.",
+          "Different crystals have different geometrical shapes.",
+          "Has a fixed angle between two adjacent surfaces."
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Various Uses of Salt in Daily Life",
+        "headers": [
+          "Field",
+          "Examples of Uses"
+        ],
+        "rows": [
+          [
+            "Food Preparation",
+            "Sodium chloride ($NaCl$) is used as a flavouring; Sodium bicarbonate ($NaHCO_3$) is used for raising dough."
+          ],
+          [
+            "Preservation",
+            "Sodium benzoate ($C_6H_5COONa$) is used to preserve sauces; Sodium nitrate ($NaNO_3$) preserves processed meat like sausages."
+          ],
+          [
+            "Agriculture",
+            "Ammonium nitrate ($NH_4NO_3$) is used as fertiliser; Iron(II) sulphate ($FeSO_4$) is used in pesticides."
+          ],
+          [
+            "Medicine",
+            "Antiseptics and calcium sulphate for casting broken bones."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.8: Salts, Crystals and Their Uses in Daily Life\nDefinition: A salt is an ionic compound formed when the hydrogen ion ($H^+$) from an acid is replaced with a metal ion or an ammonium ion ($NH_4^+$).\nKey Principle: All salts form crystals that possess highly specific geometrical shapes due to the orderly and compact arrangement of particles in their solid lattice structures.\nFormula: Not Applicable.\nVariables: Not Applicable\nEssential Data & Tables:\nList: Physical Properties of Salt Crystals\n- Has a flat surface, straight sides, and sharp vertices.\n- Has a specific geometrical shape such as a cube, cuboid, rhombus, or prism.\n- Different crystals have different geometrical shapes.\n- Has a fixed angle between two adjacent surfaces.\n\nTable: Various Uses of Salt in Daily Life\nField: Food Preparation | Examples of Uses: Sodium chloride ($NaCl$) is used as a flavouring; Sodium bicarbonate ($NaHCO_3$) is used for raising dough.\nField: Preservation | Examples of Uses: Sodium benzoate ($C_6H_5COONa$) is used to preserve sauces; Sodium nitrate ($NaNO_3$) preserves processed meat like sausages.\nField: Agriculture | Examples of Uses: Ammonium nitrate ($NH_4NO_3$) is used as fertiliser; Iron(II) sulphate ($FeSO_4$) is used in pesticides.\nField: Medicine | Examples of Uses: Antiseptics and calcium sulphate for casting broken bones."
+  },
+  {
+    "id": "chem_f4_034",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.9",
+    "topic_title": "Preparation of Salts",
+    "definition": "The preparation method for any salt is determined based entirely on whether the salt is soluble or insoluble in water at room temperature.",
+    "key_principle": "Soluble ammonium, sodium, and potassium salts are prepared by titration (neutralisation between acid and alkali). Other soluble salts are prepared by reacting an acid with a solid metal, metal oxide, or metal carbonate. Insoluble salts are prepared via double decomposition (precipitation) reactions by exchanging ions between two soluble salt solutions.",
+    "formula": "Double Decomposition: $Ba^{2+}(aq) + SO_4^{2-}(aq) \\rightarrow BaSO_4(s)$.",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Solubility of Salts in Water",
+        "headers": [
+          "Types of Salt",
+          "Solubility in Water"
+        ],
+        "rows": [
+          [
+            "Nitrate salts",
+            "All are soluble."
+          ],
+          [
+            "Sulphate salts",
+            "All are soluble, except Lead(II) sulphate ($PbSO_4$), Barium sulphate ($BaSO_4$), and Calcium sulphate ($CaSO_4$)."
+          ],
+          [
+            "Chloride salts",
+            "All are soluble, except Lead(II) chloride ($PbCl_2$), Silver chloride ($AgCl$), and Mercury(I) chloride ($Hg_2Cl_2$)."
+          ],
+          [
+            "Carbonate salts",
+            "All are insoluble, except Sodium, Potassium, and Ammonium carbonates."
+          ],
+          [
+            "Ammonium, Sodium, Potassium salts",
+            "All are soluble."
+          ]
+        ]
+      },
+      {
+        "type": "note",
+        "text": "Lead(II) chloride and Lead(II) iodide are initially insoluble but will dissolve in hot water to produce a colourless solution, reforming as crystals when cooled."
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.9: Preparation of Salts\nDefinition: The preparation method for any salt is determined based entirely on whether the salt is soluble or insoluble in water at room temperature.\nKey Principle: Soluble ammonium, sodium, and potassium salts are prepared by titration (neutralisation between acid and alkali). Other soluble salts are prepared by reacting an acid with a solid metal, metal oxide, or metal carbonate. Insoluble salts are prepared via double decomposition (precipitation) reactions by exchanging ions between two soluble salt solutions.\nFormula: Double Decomposition: $Ba^{2+}(aq) + SO_4^{2-}(aq) \\rightarrow BaSO_4(s)$.\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Solubility of Salts in Water\nTypes of Salt: Nitrate salts | Solubility in Water: All are soluble.\nTypes of Salt: Sulphate salts | Solubility in Water: All are soluble, except Lead(II) sulphate ($PbSO_4$), Barium sulphate ($BaSO_4$), and Calcium sulphate ($CaSO_4$).\nTypes of Salt: Chloride salts | Solubility in Water: All are soluble, except Lead(II) chloride ($PbCl_2$), Silver chloride ($AgCl$), and Mercury(I) chloride ($Hg_2Cl_2$).\nTypes of Salt: Carbonate salts | Solubility in Water: All are insoluble, except Sodium, Potassium, and Ammonium carbonates.\nTypes of Salt: Ammonium, Sodium, Potassium salts | Solubility in Water: All are soluble.\n\nNote: Lead(II) chloride and Lead(II) iodide are initially insoluble but will dissolve in hot water to produce a colourless solution, reforming as crystals when cooled."
+  },
+  {
+    "id": "chem_f4_035",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.10",
+    "topic_title": "Effect of Heat on Salts",
+    "definition": "The effect of heat on salts involves heating solid salts to decompose them, which produces metal oxides and specific released gases.",
+    "key_principle": "Most carbonate salts decompose to produce a metal oxide and carbon dioxide gas (which turns limewater cloudy), except for Sodium and Potassium carbonates. Nitrate salts decompose to produce a metal oxide, brown nitrogen dioxide gas (which turns blue litmus red), and oxygen gas.",
+    "formula": "Not Applicable.",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Specific Gas Tests",
+        "headers": [
+          "Gas",
+          "Chemical Test Method & Observation"
+        ],
+        "rows": [
+          [
+            "Oxygen gas ($O_2$)",
+            "Place a glowing wooden splinter into the test tube; The glowing wooden splinter rekindles."
+          ],
+          [
+            "Hydrogen gas ($H_2$)",
+            "Place a lighted wooden splinter into the test tube; A 'pop' sound is produced."
+          ],
+          [
+            "Carbon dioxide gas ($CO_2$)",
+            "Bubble the gas into limewater; Limewater turns cloudy."
+          ],
+          [
+            "Ammonia gas ($NH_3$)",
+            "Place a moist red litmus paper into the test tube; Litmus paper turns blue (pungent alkaline gas)."
+          ],
+          [
+            "Chlorine gas ($Cl_2$)",
+            "Place a moist blue litmus paper into the test tube; Litmus paper turns red, then gets bleached."
+          ],
+          [
+            "Hydrogen chloride ($HCl$)",
+            "Dip a glass rod into concentrated ammonia solution and bring near the gas; White fumes form."
+          ],
+          [
+            "Sulphur dioxide ($SO_2$)",
+            "Bubble into acidified potassium manganate(VII); Purple solution decolourises."
+          ],
+          [
+            "Nitrogen dioxide ($NO_2$)",
+            "Place a moist blue litmus paper near the gas; Litmus paper turns red (brown acidic gas)."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.10: Effect of Heat on Salts\nDefinition: The effect of heat on salts involves heating solid salts to decompose them, which produces metal oxides and specific released gases.\nKey Principle: Most carbonate salts decompose to produce a metal oxide and carbon dioxide gas (which turns limewater cloudy), except for Sodium and Potassium carbonates. Nitrate salts decompose to produce a metal oxide, brown nitrogen dioxide gas (which turns blue litmus red), and oxygen gas.\nFormula: Not Applicable.\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Specific Gas Tests\nGas: Oxygen gas ($O_2$) | Chemical Test Method & Observation: Place a glowing wooden splinter into the test tube; The glowing wooden splinter rekindles.\nGas: Hydrogen gas ($H_2$) | Chemical Test Method & Observation: Place a lighted wooden splinter into the test tube; A 'pop' sound is produced.\nGas: Carbon dioxide gas ($CO_2$) | Chemical Test Method & Observation: Bubble the gas into limewater; Limewater turns cloudy.\nGas: Ammonia gas ($NH_3$) | Chemical Test Method & Observation: Place a moist red litmus paper into the test tube; Litmus paper turns blue (pungent alkaline gas).\nGas: Chlorine gas ($Cl_2$) | Chemical Test Method & Observation: Place a moist blue litmus paper into the test tube; Litmus paper turns red, then gets bleached.\nGas: Hydrogen chloride ($HCl$) | Chemical Test Method & Observation: Dip a glass rod into concentrated ammonia solution and bring near the gas; White fumes form.\nGas: Sulphur dioxide ($SO_2$) | Chemical Test Method & Observation: Bubble into acidified potassium manganate(VII); Purple solution decolourises.\nGas: Nitrogen dioxide ($NO_2$) | Chemical Test Method & Observation: Place a moist blue litmus paper near the gas; Litmus paper turns red (brown acidic gas)."
+  },
+  {
+    "id": "chem_f4_036",
+    "chapter_number": "6",
+    "chapter_title": "Chapter 6: Acid, Base and Salt",
+    "topic_number": "6.11",
+    "topic_title": "Qualitative Analysis",
+    "definition": "Qualitative analysis is a systemic technique used to identify the cations and anions present in an unknown salt by analyzing its physical properties, action of heat, and observing specific chemical reactions.",
+    "key_principle": "Cations are identified based on the colour and solubility of precipitates formed when tested with Sodium hydroxide ($NaOH$) and aqueous Ammonia ($NH_3$). Anions are confirmed using specific dilute acids combined with indicator reagents such as silver nitrate or barium chloride.",
+    "formula": "Precipitation Example: $Zn^{2+}(aq) + 2OH^-(aq) \\rightarrow Zn(OH)_2(s)$. Confirmatory Sulfate Test: $Ba^{2+}(aq) + SO_4^{2-}(aq) \\rightarrow BaSO_4(s)$.",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Qualitative Analysis Based on Anion Tests",
+        "headers": [
+          "Anion",
+          "Test Method",
+          "Observation"
+        ],
+        "rows": [
+          [
+            "Carbonate ion ($CO_3^{2-}$)",
+            "Add dilute acid.",
+            "Effervescence occurs; gas turns limewater cloudy."
+          ],
+          [
+            "Chloride ion ($Cl^-$)",
+            "Add dilute $HNO_3$, followed by $AgNO_3(aq)$.",
+            "A white precipitate ($AgCl$) is formed."
+          ],
+          [
+            "Sulphate ion ($SO_4^{2-}$)",
+            "Add dilute $HCl$, followed by $BaCl_2(aq)$.",
+            "A white precipitate ($BaSO_4$) is formed."
+          ],
+          [
+            "Nitrate ion ($NO_3^-$)",
+            "Add dilute $H_2SO_4$, $FeSO_4(aq)$, and concentrated $H_2SO_4$.",
+            "A brown ring (complex compound) is formed."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Cation Analysis Using $NaOH$ and $NH_3$",
+        "headers": [
+          "Result",
+          "Cations Present"
+        ],
+        "rows": [
+          [
+            "White precipitate, soluble in excess $NaOH$",
+            "$Zn^{2+}, Al^{3+}, Pb^{2+}$."
+          ],
+          [
+            "White precipitate, insoluble in excess $NaOH$",
+            "$Mg^{2+}, Ca^{2+}$."
+          ],
+          [
+            "White precipitate, soluble in excess $NH_3$",
+            "$Zn^{2+}$."
+          ],
+          [
+            "White precipitate, insoluble in excess $NH_3$",
+            "$Mg^{2+}, Al^{3+}, Pb^{2+}$."
+          ],
+          [
+            "Blue precipitate, insoluble in excess $NaOH$ but soluble in excess $NH_3$ to form dark blue solution",
+            "$Cu^{2+}$."
+          ],
+          [
+            "Green precipitate, insoluble in excess $NaOH$ and $NH_3$",
+            "$Fe^{2+}$."
+          ],
+          [
+            "Brown precipitate, insoluble in excess $NaOH$ and $NH_3$",
+            "$Fe^{3+}$."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 6: Acid, Base and Salt\nTopic 6.11: Qualitative Analysis\nDefinition: Qualitative analysis is a systemic technique used to identify the cations and anions present in an unknown salt by analyzing its physical properties, action of heat, and observing specific chemical reactions.\nKey Principle: Cations are identified based on the colour and solubility of precipitates formed when tested with Sodium hydroxide ($NaOH$) and aqueous Ammonia ($NH_3$). Anions are confirmed using specific dilute acids combined with indicator reagents such as silver nitrate or barium chloride.\nFormula: Precipitation Example: $Zn^{2+}(aq) + 2OH^-(aq) \\rightarrow Zn(OH)_2(s)$. Confirmatory Sulfate Test: $Ba^{2+}(aq) + SO_4^{2-}(aq) \\rightarrow BaSO_4(s)$.\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Qualitative Analysis Based on Anion Tests\nAnion: Carbonate ion ($CO_3^{2-}$) | Test Method: Add dilute acid. | Observation: Effervescence occurs; gas turns limewater cloudy.\nAnion: Chloride ion ($Cl^-$) | Test Method: Add dilute $HNO_3$, followed by $AgNO_3(aq)$. | Observation: A white precipitate ($AgCl$) is formed.\nAnion: Sulphate ion ($SO_4^{2-}$) | Test Method: Add dilute $HCl$, followed by $BaCl_2(aq)$. | Observation: A white precipitate ($BaSO_4$) is formed.\nAnion: Nitrate ion ($NO_3^-$) | Test Method: Add dilute $H_2SO_4$, $FeSO_4(aq)$, and concentrated $H_2SO_4$. | Observation: A brown ring (complex compound) is formed.\n\nTable: Cation Analysis Using $NaOH$ and $NH_3$\nResult: White precipitate, soluble in excess $NaOH$ | Cations Present: $Zn^{2+}, Al^{3+}, Pb^{2+}$.\nResult: White precipitate, insoluble in excess $NaOH$ | Cations Present: $Mg^{2+}, Ca^{2+}$.\nResult: White precipitate, soluble in excess $NH_3$ | Cations Present: $Zn^{2+}$.\nResult: White precipitate, insoluble in excess $NH_3$ | Cations Present: $Mg^{2+}, Al^{3+}, Pb^{2+}$.\nResult: Blue precipitate, insoluble in excess $NaOH$ but soluble in excess $NH_3$ to form dark blue solution | Cations Present: $Cu^{2+}$.\nResult: Green precipitate, insoluble in excess $NaOH$ and $NH_3$ | Cations Present: $Fe^{2+}$.\nResult: Brown precipitate, insoluble in excess $NaOH$ and $NH_3$ | Cations Present: $Fe^{3+}$."
+  },
+  {
+    "id": "chem_f4_037",
+    "chapter_number": "7",
+    "chapter_title": "Chapter 7: Rate of Reaction",
+    "topic_number": "7.1",
+    "topic_title": "Determining Rate of Reaction",
+    "definition": "The rate of reaction is the measurement of the change in the quantity of reactants or products per unit of time, which can be observed and measured.",
+    "key_principle": "Chemical reactions can be classified as either fast (e.g., explosions) or slow (e.g., rusting). The rate of reaction can be measured as the average rate of reaction (the average value over a specific time interval) or the instantaneous rate of reaction (the rate at a specific point of time, determined by calculating the gradient of the tangent to the curve on a graph).",
+    "formula": "Average rate of reaction = $\\frac{\\Delta V}{\\Delta t} = \\frac{V_2 - V_1}{t_2 - t_1}$ Instantaneous rate of reaction at time $t$ = Gradient of the tangent at time $t$",
+    "variables": "$V_1, V_2$: Volume of gas collected (or quantity of substance) at specific times. $t_1, t_2$: Specific time points. $\\Delta V$: Change in the quantity of reactants or products. $\\Delta t$: Time taken for the change to occur.",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Observable and Measurable Changes in Reactions",
+        "items": [
+          "Formation of precipitate: Measured by the time taken for a fixed amount of precipitate to form (e.g., disappearance of a 'X' mark under a flask).",
+          "Decrease in mass of reactants: Measured using an electronic balance (for reactions that release gas).",
+          "Increase in volume of gas: Measured using a gas syringe.",
+          "Changes in pressure: Measured using a pressure meter for gas reactions.",
+          "Changes in electrical conductivity: Measured using an ammeter for mobile ions.",
+          "Changes in pH values: Measured using a pH meter."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Classification of Rate of Reactions",
+        "items": [
+          "Fast Reactions: Electric cells reaction, ignition of matches, combustion of gases, fireworks.",
+          "Slow Reactions: Rock erosion, fermentation, food decay, corrosion of metals, photosynthesis."
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Units for Rate of Reaction",
+        "items": [
+          "Solid mass changes: $\\text{g s}^{-1}$ or $\\text{g minute}^{-1}$",
+          "Gas volume changes: $\\text{cm}^3\\text{ s}^{-1}$ or $\\text{cm}^3\\text{ minute}^{-1}$",
+          "Concentration changes: $\\text{mol dm}^{-3}\\text{ s}^{-1}$ or $\\text{mol dm}^{-3}\\text{ minute}^{-1}$"
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 7: Rate of Reaction\nTopic 7.1: Determining Rate of Reaction\nDefinition: The rate of reaction is the measurement of the change in the quantity of reactants or products per unit of time, which can be observed and measured.\nKey Principle: Chemical reactions can be classified as either fast (e.g., explosions) or slow (e.g., rusting). The rate of reaction can be measured as the average rate of reaction (the average value over a specific time interval) or the instantaneous rate of reaction (the rate at a specific point of time, determined by calculating the gradient of the tangent to the curve on a graph).\nFormula: Average rate of reaction = $\\frac{\\Delta V}{\\Delta t} = \\frac{V_2 - V_1}{t_2 - t_1}$ Instantaneous rate of reaction at time $t$ = Gradient of the tangent at time $t$\nVariables: $V_1, V_2$: Volume of gas collected (or quantity of substance) at specific times. $t_1, t_2$: Specific time points. $\\Delta V$: Change in the quantity of reactants or products. $\\Delta t$: Time taken for the change to occur.\nEssential Data & Tables:\nList: Observable and Measurable Changes in Reactions\n- Formation of precipitate: Measured by the time taken for a fixed amount of precipitate to form (e.g., disappearance of a 'X' mark under a flask).\n- Decrease in mass of reactants: Measured using an electronic balance (for reactions that release gas).\n- Increase in volume of gas: Measured using a gas syringe.\n- Changes in pressure: Measured using a pressure meter for gas reactions.\n- Changes in electrical conductivity: Measured using an ammeter for mobile ions.\n- Changes in pH values: Measured using a pH meter.\n\nList: Classification of Rate of Reactions\n- Fast Reactions: Electric cells reaction, ignition of matches, combustion of gases, fireworks.\n- Slow Reactions: Rock erosion, fermentation, food decay, corrosion of metals, photosynthesis.\n\nList: Units for Rate of Reaction\n- Solid mass changes: $\\text{g s}^{-1}$ or $\\text{g minute}^{-1}$\n- Gas volume changes: $\\text{cm}^3\\text{ s}^{-1}$ or $\\text{cm}^3\\text{ minute}^{-1}$\n- Concentration changes: $\\text{mol dm}^{-3}\\text{ s}^{-1}$ or $\\text{mol dm}^{-3}\\text{ minute}^{-1}$"
+  },
+  {
+    "id": "chem_f4_038",
+    "chapter_number": "7",
+    "chapter_title": "Chapter 7: Rate of Reaction",
+    "topic_number": "7.2",
+    "topic_title": "Factors Affecting Rate of Reactions",
+    "definition": "Different chemical substances have different chemical properties and react at different rates depending on four main physical factors: size of reactants, concentration, temperature, and presence of a catalyst.",
+    "key_principle": "The rate of reaction increases when the size of solid reactants decreases (which increases the total exposed surface area), the concentration of aqueous reactants increases, the temperature of the reaction increases, or when a suitable positive catalyst is added. For gaseous reactions, an increase in gas pressure acts similarly to concentration by pushing particles into a smaller volume.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Factors Affecting Rate of Reaction",
+        "items": [
+          "Size of Reactants: Smaller pieces of solid reactants possess a larger total surface area compared to a single large piece of the same mass, leading to a higher rate of reaction.",
+          "Concentration: Adding more solute to a fixed volume of solvent increases concentration, leading to a higher rate of reaction.",
+          "Temperature: Increasing the heat of a reaction increases the rate of reaction.",
+          "Presence of a Catalyst: A catalyst alters the rate of reaction but remains chemically unchanged at the end of the reaction (the mass of the catalyst does not change before and after the reaction).",
+          "Pressure (for gases): Compressing a gas at a constant temperature increases its concentration, thus increasing the rate of reaction."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 7: Rate of Reaction\nTopic 7.2: Factors Affecting Rate of Reactions\nDefinition: Different chemical substances have different chemical properties and react at different rates depending on four main physical factors: size of reactants, concentration, temperature, and presence of a catalyst.\nKey Principle: The rate of reaction increases when the size of solid reactants decreases (which increases the total exposed surface area), the concentration of aqueous reactants increases, the temperature of the reaction increases, or when a suitable positive catalyst is added. For gaseous reactions, an increase in gas pressure acts similarly to concentration by pushing particles into a smaller volume.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Factors Affecting Rate of Reaction\n- Size of Reactants: Smaller pieces of solid reactants possess a larger total surface area compared to a single large piece of the same mass, leading to a higher rate of reaction.\n- Concentration: Adding more solute to a fixed volume of solvent increases concentration, leading to a higher rate of reaction.\n- Temperature: Increasing the heat of a reaction increases the rate of reaction.\n- Presence of a Catalyst: A catalyst alters the rate of reaction but remains chemically unchanged at the end of the reaction (the mass of the catalyst does not change before and after the reaction).\n- Pressure (for gases): Compressing a gas at a constant temperature increases its concentration, thus increasing the rate of reaction."
+  },
+  {
+    "id": "chem_f4_039",
+    "chapter_number": "7",
+    "chapter_title": "Chapter 7: Rate of Reaction",
+    "topic_number": "7.3",
+    "topic_title": "Application of Factors that Affect the Rate of Reaction in Daily Life",
+    "definition": "The manipulation of factors that affect the rate of reaction—such as size, temperature, concentration, and catalysts—is widely applied in domestic chores, medicine, and industrial processes to control how fast or slow a reaction occurs.",
+    "key_principle": "We increase the rate of reaction to make processes faster and more efficient (like cutting potatoes into strips to cook them faster or using a catalytic converter in cars), and we decrease the rate of reaction to delay unwanted processes (like keeping food in a refrigerator to slow down bacterial decay).",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Real-World Applications of Reaction Rates",
+        "items": [
+          "Size Factor: Chewing antacid tablets (breaking them into smaller pieces) increases the surface area, speeding up the neutralisation of stomach acid. Cutting potatoes into thin strips cooks them faster.",
+          "Temperature Factor: Storing food in a refrigerator lowers the temperature, slowing down the rate of food decay. Frying food in oil (which can reach 180°C) cooks food much faster than boiling in water (100°C).",
+          "Concentration Factor: Compressing petrol vapour and air in a car engine increases its concentration so it burns and explodes rapidly to power the car. High concentrations of acidic pollutants in industrial areas increase the rate of corrosion of iron buildings.",
+          "Catalyst Factor: Catalytic converters in cars use a platinum ($Pt$) catalyst to quickly convert harmful exhaust pollutants (unburned hydrocarbons, $CO$, $NO_x$) into safer gases ($H_2O$, $CO_2$, $N_2$). Yeast acts as a biological catalyst in the fermentation of glucose to produce ethanol."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 7: Rate of Reaction\nTopic 7.3: Application of Factors that Affect the Rate of Reaction in Daily Life\nDefinition: The manipulation of factors that affect the rate of reaction—such as size, temperature, concentration, and catalysts—is widely applied in domestic chores, medicine, and industrial processes to control how fast or slow a reaction occurs.\nKey Principle: We increase the rate of reaction to make processes faster and more efficient (like cutting potatoes into strips to cook them faster or using a catalytic converter in cars), and we decrease the rate of reaction to delay unwanted processes (like keeping food in a refrigerator to slow down bacterial decay).\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Real-World Applications of Reaction Rates\n- Size Factor: Chewing antacid tablets (breaking them into smaller pieces) increases the surface area, speeding up the neutralisation of stomach acid. Cutting potatoes into thin strips cooks them faster.\n- Temperature Factor: Storing food in a refrigerator lowers the temperature, slowing down the rate of food decay. Frying food in oil (which can reach 180°C) cooks food much faster than boiling in water (100°C).\n- Concentration Factor: Compressing petrol vapour and air in a car engine increases its concentration so it burns and explodes rapidly to power the car. High concentrations of acidic pollutants in industrial areas increase the rate of corrosion of iron buildings.\n- Catalyst Factor: Catalytic converters in cars use a platinum ($Pt$) catalyst to quickly convert harmful exhaust pollutants (unburned hydrocarbons, $CO$, $NO_x$) into safer gases ($H_2O$, $CO_2$, $N_2$). Yeast acts as a biological catalyst in the fermentation of glucose to produce ethanol."
+  },
+  {
+    "id": "chem_f4_040",
+    "chapter_number": "7",
+    "chapter_title": "Chapter 7: Rate of Reaction",
+    "topic_number": "7.4",
+    "topic_title": "Collision Theory",
+    "definition": "The collision theory explains that for a chemical reaction to occur, reactant particles must constantly move and collide with one another with sufficient energy and in the correct orientation to break old bonds and form new ones.",
+    "key_principle": "The rate of reaction depends directly on the frequency of effective collisions. An effective collision only occurs if particles collide with a minimum threshold energy called the activation energy ($E_a$) and in the proper orientation. Altering factors like temperature, concentration, surface area, or adding a catalyst directly influences the frequency of these effective collisions.",
+    "formula": "Not Applicable",
+    "variables": "$E_a$: Activation energy (the energy barrier required to start a reaction). $E_a'$: Activation energy with a catalyst (which is lower than $E_a$). $\\Delta H$: Heat of reaction (the change in energy content between reactants and products).",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "How Factors Influence the Collision Theory",
+        "items": [
+          "Concentration/Pressure: Increases the number of particles per unit volume $\\rightarrow$ frequency of collisions between particles increases $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.",
+          "Size of Reactant: Increases total surface area exposed to collision $\\rightarrow$ frequency of collisions between particles increases $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.",
+          "Temperature: Increases the kinetic energy of particles $\\rightarrow$ more particles possess energy $\\ge E_a$ $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.",
+          "Presence of Catalyst: Provides an alternative reaction pathway with a lower activation energy ($E_a'$) $\\rightarrow$ more reactant particles can achieve the new activation energy $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases."
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Energy Profile Diagrams",
+        "headers": [
+          "Type of Reaction",
+          "Energy Profile"
+        ],
+        "rows": [
+          [
+            "Exothermic Reaction",
+            "Total energy of reactants is higher than products. $\\Delta H$ is negative (heat released to surroundings)."
+          ],
+          [
+            "Endothermic Reaction",
+            "Total energy of products is higher than reactants. $\\Delta H$ is positive (heat absorbed from surroundings)."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 7: Rate of Reaction\nTopic 7.4: Collision Theory\nDefinition: The collision theory explains that for a chemical reaction to occur, reactant particles must constantly move and collide with one another with sufficient energy and in the correct orientation to break old bonds and form new ones.\nKey Principle: The rate of reaction depends directly on the frequency of effective collisions. An effective collision only occurs if particles collide with a minimum threshold energy called the activation energy ($E_a$) and in the proper orientation. Altering factors like temperature, concentration, surface area, or adding a catalyst directly influences the frequency of these effective collisions.\nFormula: Not Applicable\nVariables: $E_a$: Activation energy (the energy barrier required to start a reaction). $E_a'$: Activation energy with a catalyst (which is lower than $E_a$). $\\Delta H$: Heat of reaction (the change in energy content between reactants and products).\nEssential Data & Tables:\nList: How Factors Influence the Collision Theory\n- Concentration/Pressure: Increases the number of particles per unit volume $\\rightarrow$ frequency of collisions between particles increases $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.\n- Size of Reactant: Increases total surface area exposed to collision $\\rightarrow$ frequency of collisions between particles increases $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.\n- Temperature: Increases the kinetic energy of particles $\\rightarrow$ more particles possess energy $\\ge E_a$ $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.\n- Presence of Catalyst: Provides an alternative reaction pathway with a lower activation energy ($E_a'$) $\\rightarrow$ more reactant particles can achieve the new activation energy $\\rightarrow$ frequency of effective collisions increases $\\rightarrow$ rate of reaction increases.\n\nTable: Energy Profile Diagrams\nType of Reaction: Exothermic Reaction | Energy Profile: Total energy of reactants is higher than products. $\\Delta H$ is negative (heat released to surroundings).\nType of Reaction: Endothermic Reaction | Energy Profile: Total energy of products is higher than reactants. $\\Delta H$ is positive (heat absorbed from surroundings)."
+  },
+  {
+    "id": "chem_f4_041",
+    "chapter_number": "8",
+    "chapter_title": "Chapter 8: Manufactured Substances in Industry",
+    "topic_number": "8.1",
+    "topic_title": "Alloy and Its Importance",
+    "definition": "An alloy is a mixture of two or more elements where the main element is a metal.",
+    "key_principle": "The alloying process is used to prevent the corrosion of metal and to alter the properties of a pure metal to make it harder and stronger. In a pure metal, atoms are of the same size and arranged in an orderly manner, allowing layers to easily slide over each other when force is applied (making them ductile and malleable). In an alloy, foreign atoms of different sizes disrupt this orderly arrangement, preventing the layers of atoms from sliding easily, which results in a stronger and harder material.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Examples of Alloys and Their Uses",
+        "items": [
+          "Pewter: Used to make souvenirs.",
+          "Duralumin: Used to make the body of an aeroplane.",
+          "Bronze: Used to make medals and monuments.",
+          "Brass: Used to make keys.",
+          "Steel: Used to make the body of a car.",
+          "Stainless steel: Used to make cutlery due to its resistance to corrosion.",
+          "Superconductor: Used to make magnets that can levitate Maglev trains and move them at high speeds without electrical resistance at very low temperatures."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 8: Manufactured Substances in Industry\nTopic 8.1: Alloy and Its Importance\nDefinition: An alloy is a mixture of two or more elements where the main element is a metal.\nKey Principle: The alloying process is used to prevent the corrosion of metal and to alter the properties of a pure metal to make it harder and stronger. In a pure metal, atoms are of the same size and arranged in an orderly manner, allowing layers to easily slide over each other when force is applied (making them ductile and malleable). In an alloy, foreign atoms of different sizes disrupt this orderly arrangement, preventing the layers of atoms from sliding easily, which results in a stronger and harder material.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Examples of Alloys and Their Uses\n- Pewter: Used to make souvenirs.\n- Duralumin: Used to make the body of an aeroplane.\n- Bronze: Used to make medals and monuments.\n- Brass: Used to make keys.\n- Steel: Used to make the body of a car.\n- Stainless steel: Used to make cutlery due to its resistance to corrosion.\n- Superconductor: Used to make magnets that can levitate Maglev trains and move them at high speeds without electrical resistance at very low temperatures."
+  },
+  {
+    "id": "chem_f4_042",
+    "chapter_number": "8",
+    "chapter_title": "Chapter 8: Manufactured Substances in Industry",
+    "topic_number": "8.2",
+    "topic_title": "Composition of Glass and Its Uses",
+    "definition": "Glass is a non-metallic material produced when silica (silicon dioxide, SiO₂) is heated together with other chemicals.",
+    "key_principle": "Various types of glass with different properties can be obtained by altering the chemicals heated alongside silica, though all types of glass share the same fundamental physical properties such as being hard but brittle, and acting as heat and electrical insulators.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Basic Properties of Glass",
+        "items": [
+          "Hard but brittle",
+          "Electrical insulator",
+          "Heat insulator",
+          "Waterproof",
+          "Chemically inert",
+          "Transparent"
+        ]
+      },
+      {
+        "type": "list",
+        "title": "Types of Glass",
+        "items": [
+          "Fused silica glass: Made purely from silica.",
+          "Soda-lime glass: Made from silica (SiO₂), soda (sodium carbonate, Na₂CO₃), and limestone (calcium carbonate, CaCO₃).",
+          "Borosilicate glass: Made of silica, boron oxide (B₂O₃), and alumina (Al₂O₃).",
+          "Lead crystal glass: Contains lead components."
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 8: Manufactured Substances in Industry\nTopic 8.2: Composition of Glass and Its Uses\nDefinition: Glass is a non-metallic material produced when silica (silicon dioxide, SiO₂) is heated together with other chemicals.\nKey Principle: Various types of glass with different properties can be obtained by altering the chemicals heated alongside silica, though all types of glass share the same fundamental physical properties such as being hard but brittle, and acting as heat and electrical insulators.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Basic Properties of Glass\n- Hard but brittle\n- Electrical insulator\n- Heat insulator\n- Waterproof\n- Chemically inert\n- Transparent\n\nList: Types of Glass\n- Fused silica glass: Made purely from silica.\n- Soda-lime glass: Made from silica (SiO₂), soda (sodium carbonate, Na₂CO₃), and limestone (calcium carbonate, CaCO₃).\n- Borosilicate glass: Made of silica, boron oxide (B₂O₃), and alumina (Al₂O₃).\n- Lead crystal glass: Contains lead components."
+  },
+  {
+    "id": "chem_f4_043",
+    "chapter_number": "8",
+    "chapter_title": "Chapter 8: Manufactured Substances in Industry",
+    "topic_number": "8.3",
+    "topic_title": "Composition of Ceramics and Its Uses",
+    "definition": "A ceramic is a solid made up of inorganic and non-metallic substances (such as metal compounds, non-metal compounds, or metalloid compounds) that is produced through a process of shaping and hardening by using heating techniques at a very high temperature.",
+    "key_principle": "The atoms in ceramics are bonded by strong covalent bonds and ionic bonds, causing them to melt only at very high temperatures and making them hard and resistant to compression. However, because the atoms are strongly bonded in a rigid arrangement, they cannot slide over each other; force applied breaks the bonds instead, making ceramics brittle and weak towards stretching.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "list",
+        "title": "Basic Properties of Ceramics",
+        "items": [
+          "High thermal resistant",
+          "Hard and strong (resistant to compression)",
+          "Break easily (brittle)",
+          "Chemically inert",
+          "Heat and electrical insulator (electrons cannot move freely)"
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Ceramic Uses and Applications",
+        "headers": [
+          "Field",
+          "Examples of Ceramic Uses"
+        ],
+        "rows": [
+          [
+            "Medicine",
+            "Zirconia ceramic is used in dental implants. Alumina ceramic is used to make knee bones. Ceramics with superconductivity are used in MRI machines."
+          ],
+          [
+            "Transportation",
+            "Engine components in jet planes are made from ceramics."
+          ],
+          [
+            "Energy production",
+            "Used to make electrical insulators in high voltage areas such as power stations."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 8: Manufactured Substances in Industry\nTopic 8.3: Composition of Ceramics and Its Uses\nDefinition: A ceramic is a solid made up of inorganic and non-metallic substances (such as metal compounds, non-metal compounds, or metalloid compounds) that is produced through a process of shaping and hardening by using heating techniques at a very high temperature.\nKey Principle: The atoms in ceramics are bonded by strong covalent bonds and ionic bonds, causing them to melt only at very high temperatures and making them hard and resistant to compression. However, because the atoms are strongly bonded in a rigid arrangement, they cannot slide over each other; force applied breaks the bonds instead, making ceramics brittle and weak towards stretching.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nList: Basic Properties of Ceramics\n- High thermal resistant\n- Hard and strong (resistant to compression)\n- Break easily (brittle)\n- Chemically inert\n- Heat and electrical insulator (electrons cannot move freely)\n\nTable: Ceramic Uses and Applications\nField: Medicine | Examples of Ceramic Uses: Zirconia ceramic is used in dental implants. Alumina ceramic is used to make knee bones. Ceramics with superconductivity are used in MRI machines.\nField: Transportation | Examples of Ceramic Uses: Engine components in jet planes are made from ceramics.\nField: Energy production | Examples of Ceramic Uses: Used to make electrical insulators in high voltage areas such as power stations."
+  },
+  {
+    "id": "chem_f4_044",
+    "chapter_number": "8",
+    "chapter_title": "Chapter 8: Manufactured Substances in Industry",
+    "topic_number": "8.4",
+    "topic_title": "Composite Materials and Its Importance",
+    "definition": "A composite material is a structural material made by combining two or more non-homogeneous substances, specifically a matrix substance and a strengthening substance.",
+    "key_principle": "In a composite, the matrix substance surrounds and binds the strengthening substance together. The resulting composite material generally exhibits superior or completely different physical properties compared to its original, individual components.",
+    "formula": "Not Applicable",
+    "variables": "Not Applicable",
+    "essential_data": [
+      {
+        "type": "table",
+        "title": "Comparison of Composite Materials and Their Original Components",
+        "headers": [
+          "Composite Material",
+          "Components",
+          "Enhanced Properties / Applications"
+        ],
+        "rows": [
+          [
+            "Reinforced concrete",
+            "Concrete (matrix) + Steel bars / wire mesh (strengthening)",
+            "Concrete withstands compression but breaks under stretching; combining it with steel increases its ability to withstand stretching forces. Used in bridges and dams."
+          ],
+          [
+            "Fibre glass",
+            "Plastic (matrix) + Glass fibres (strengthening)",
+            "Weak, soft, and easily burned plastic is reinforced to become strong while maintaining low heat and electrical conductivity."
+          ],
+          [
+            "Optical fibre",
+            "Glass (matrix) + Glass/plastic (strengthening)",
+            "Achieves high compression strength despite the original glass being brittle; used to transmit information and data."
+          ],
+          [
+            "Photochromic glass",
+            "Glass (matrix) + Silver chloride / silver halide (strengthening)",
+            "Normal glass is transparent but doesn't absorb UV. The composite remains transparent to visible light but darkens to absorb UV rays."
+          ],
+          [
+            "Superconductor (YBCO)",
+            "Yttrium, Barium, Copper, Oxygen",
+            "Conducts electrical current without any resistance at very low temperatures, unlike its original components."
+          ]
+        ]
+      }
+    ],
+    "content": "Subject: SPM Chemistry (Form 4)\nChapter 8: Manufactured Substances in Industry\nTopic 8.4: Composite Materials and Its Importance\nDefinition: A composite material is a structural material made by combining two or more non-homogeneous substances, specifically a matrix substance and a strengthening substance.\nKey Principle: In a composite, the matrix substance surrounds and binds the strengthening substance together. The resulting composite material generally exhibits superior or completely different physical properties compared to its original, individual components.\nFormula: Not Applicable\nVariables: Not Applicable\nEssential Data & Tables:\nTable: Comparison of Composite Materials and Their Original Components\nComposite Material: Reinforced concrete | Components: Concrete (matrix) + Steel bars / wire mesh (strengthening) | Enhanced Properties / Applications: Concrete withstands compression but breaks under stretching; combining it with steel increases its ability to withstand stretching forces. Used in bridges and dams.\nComposite Material: Fibre glass | Components: Plastic (matrix) + Glass fibres (strengthening) | Enhanced Properties / Applications: Weak, soft, and easily burned plastic is reinforced to become strong while maintaining low heat and electrical conductivity.\nComposite Material: Optical fibre | Components: Glass (matrix) + Glass/plastic (strengthening) | Enhanced Properties / Applications: Achieves high compression strength despite the original glass being brittle; used to transmit information and data.\nComposite Material: Photochromic glass | Components: Glass (matrix) + Silver chloride / silver halide (strengthening) | Enhanced Properties / Applications: Normal glass is transparent but doesn't absorb UV. The composite remains transparent to visible light but darkens to absorb UV rays.\nComposite Material: Superconductor (YBCO) | Components: Yttrium, Barium, Copper, Oxygen | Enhanced Properties / Applications: Conducts electrical current without any resistance at very low temperatures, unlike its original components."
+  }
+]

@@ -1,0 +1,36 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ring1" x1="10%" y1="10%" x2="90%" y2="90%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="50%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#F0ABFC"/>
+    </linearGradient>
+    <linearGradient id="ring2" x1="90%" y1="10%" x2="10%" y2="90%">
+      <stop offset="0%" stop-color="#F472B6"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+    <linearGradient id="ring3" x1="10%" y1="90%" x2="90%" y2="10%">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="50%" stop-color="#F0ABFC"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C4B5FD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="100" cy="100" rx="80" ry="32" fill="none" stroke="url(#ring1)" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="100" cy="100" rx="80" ry="32" fill="none" stroke="url(#ring2)" stroke-width="8" stroke-linecap="round" transform="rotate(60 100 100)"/>
+  <ellipse cx="100" cy="100" rx="80" ry="32" fill="none" stroke="url(#ring3)" stroke-width="8" stroke-linecap="round" transform="rotate(-60 100 100)"/>
+
+  <!-- glossy specular highlights -->
+  <ellipse cx="62" cy="76" rx="16" ry="5" fill="#FFFFFF" opacity="0.6" transform="rotate(-25 62 76)"/>
+  <ellipse cx="145" cy="90" rx="12" ry="4" fill="#FFFFFF" opacity="0.45" transform="rotate(30 145 90)"/>
+  <ellipse cx="95" cy="145" rx="12" ry="4" fill="#FFFFFF" opacity="0.4" transform="rotate(-15 95 145)"/>
+
+  <!-- core -->
+  <circle cx="100" cy="100" r="16" fill="url(#core)"/>
+  <circle cx="100" cy="100" r="6" fill="#FFFFFF"/>
+</svg>
